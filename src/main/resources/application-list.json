@@ -1,5 +1,6 @@
 [
   {
+    "id":"da3c51c8-b7ea-459b-999c-9a6232ea50c7",
     "applicationName": "DMEhub",
     "company": "DMEhub",
     "applicationEmail": "support@dmehub.com",
@@ -7,6 +8,7 @@
     "applicationDescription": "DMEhub allows healthcare providers to efficiently create, send and track durable medical equipment (walkers, wheelchairs, oxygen) orders so users can remove the rework inherent in the current fax-based process and so patients can get what they need faster."
   },
   {
+    "id":"6dd45e6d-f8de-4144-8d1f-7724b735770c",
     "applicationName": "Curve Health Platform",
     "company": "Curve Health",
     "applicationEmail": "admin@curvehealth.com",
@@ -14,6 +16,7 @@
     "applicationDescription": "Curve Health advances connected senior care. We combine telemedicine, EHR data integration, predictive analytics, and smart billing into a single platform enabling subacute and acute care-in-place in skilled nursing facilities, in an ambulance or at home."
   },
   {
+    "id":"2869ac95-f5ce-4390-9b43-6051efd8b45f",
     "applicationName": "DermEngine",
     "company": "MetaOptima, Inc.",
     "applicationEmail": "support@metaoptima.com",
@@ -21,6 +24,7 @@
     "applicationDescription": "DermEngine is a HIPAA compliant, cloud-based intelligent dermatology platform for imaging, documenting, and coordinating care for skin lesions and other dermatologic concerns. Powered by award-winning AI algorithms, DermEngine provides tools and workflows for clinical and dermoscopic imaging as well as total body photography with mole mapping.  DermEngine also provides streamlined \"Provider-to-Provider\" interprofessional consultations as well as teledermatology and teledermoscopy directly with patients. "
   },
   {
+    "id":"d5204b40-6bb4-4b16-9c3a-c8101971f1c0",
     "applicationName": "Keona Health Desk",
     "company": "Keona Health",
     "applicationEmail": null,
@@ -28,6 +32,7 @@
     "applicationDescription": "Keona Health is the innovative developer of \"Health Desk\", a healthcare CRM platform that integrates with an PM/EHR in \"real time\" to activate intelligent scheduling of patient appointments (both self-service and contact center versions). In addition, Health Desk can be used to manage other workflows including: nurse triage, telemedicine, referral services, prescription refills, post discharge follow-up and other marketing/clinical programs."
   },
   {
+    "id":"9c067aef-15cf-49c8-ab8f-765784e4c7d2",
     "applicationName": "AllCalc",
     "company": "AiMedica",
     "applicationEmail": null,
@@ -35,6 +40,7 @@
     "applicationDescription": "\"All-Calc accesses a patient's chart and provides clinical decision support.     We use evidence based medical calculators that are used by healthcare providers on a daily basis and automate data entry by automatically inputting the necessary data from the chart\""
   },
   {
+    "id":"e4436273-1d8a-46fa-a51a-6e8aedef9c3a",
     "applicationName": "NICUtrition",
     "company": "Astarte Medical Partners, Inc",
     "applicationEmail": "support@astartemedical.com",
@@ -42,6 +48,7 @@
     "applicationDescription": "NICUtrition® is the first real-time, clinical decision support tool designed to monitor and analyze feeding and nutrition delivery in the NICU in order to improve quality of care and achieve healthier outcomes for the most vulnerable patients."
   },
   {
+    "id":"1e8d39f9-ac95-4e96-8cbb-20f8d26c3385",
     "applicationName": "Point Data Connector",
     "company": "Hart, Inc.",
     "applicationEmail": null,
@@ -49,6 +56,7 @@
     "applicationDescription": "\"All in one API output - Data acquisition partner for Provider Organizations, Digital Health, Population Health, Analytics/BI, Outsource Coding Services, and AI companies who require integration with your various health data sources in your network.  \""
   },
   {
+    "id":"3309776c-e7c7-452c-a6fd-152d956ddec4",
     "applicationName": "Hyro Virtual Assistant for Healthcare",
     "company": "Hyro",
     "applicationEmail": "andrew@hyro.ai",
@@ -56,6 +64,7 @@
     "applicationDescription": "We develop and deploy virtual assistants (chatbots for websites, voice assistants for call centers) for healthcare that automate conversations with patients across various use-cases. We're helping health systems to increase digital engagement with patients to increase appointment bookings, improve the patient experience, and reduce costs. Use-cases we solve for include: finding a physician, booking appointments online, answer FAQs, navigating the website, finding locations, finding services, troubleshooting & support, and many more."
   },
   {
+    "id":"d1c0b38f-5adb-498c-9180-6a8ba3d7322e",
     "applicationName": "1928 Platform",
     "company": "1928 Diagnostics",
     "applicationEmail": "support@1928diagnostics.com",
@@ -63,6 +72,7 @@
     "applicationDescription": "Fast and efficient cloud-based analysis of your microbial sequencing."
   },
   {
+    "id":"a1425980-74cf-4f75-90d6-21b74f6c4602",
     "applicationName": "Mytonomy Cloud for Healthcare",
     "company": "Mytonomy, Inc",
     "applicationEmail": "bridgitte@mytonomy.com",
@@ -70,6 +80,7 @@
     "applicationDescription": "Mytonomy's Cloud for Healthcare helps healthcare organizations give patients what they need to care for themselves - in the palm of their hands. Mytonomy engages patients in their care with broadcast-quality micro-learning videos and powerful communication and survey tools. Orchestrated by an intelligent, novel healthcare CRM, Mytonomy adapts to each patient to deliver a tailored experience."
   },
   {
+    "id":"7d422c1c-d5a2-4a99-ad1d-9f24667dc9d1",
     "applicationName": "Hendrich II Fall Risk Model®",
     "company": "AHI of Indiana, Inc.",
     "applicationEmail": "alhendrich@hendrichfallriskmodel.com",
@@ -77,6 +88,7 @@
     "applicationDescription": "The Hendrich II Fall Risk Model® is a widely used, valid and reliable predictive tool used to assess risk factors proven to cause injurious falls across the care continuum. The risk factors will prompt the provider to screen for the underlying cause of each risk factor and apply evidence-based interventions. Individualized care plans can be chosen based on the assessed risk factors to reduce modifiable risk factors whenever possible, while also promoting healthy aging and proactively preventing hospital-acquired complications.  Additional research is underway to measure individual patient capacity for daily mobility goals that will reduce fall risk and improve outcomes."
   },
   {
+    "id":"3327f1f0-43ca-4711-a821-26feb85fede3",
     "applicationName": "swyMed Telehealth",
     "company": "swyMed Incorporated",
     "applicationEmail": "support@swymed.com",
@@ -84,6 +96,7 @@
     "applicationDescription": "swyMed allows expert phycisian guidance to be brought ot the point of need via high quality, relaible video telehealth consultants."
   },
   {
+    "id":"55f602bc-4d06-4744-a2ea-e285a0d3c29e",
     "applicationName": "PrecisePK",
     "company": "PrecisePK (Healthware Inc.)",
     "applicationEmail": "information@precisepk.com",
@@ -91,6 +104,7 @@
     "applicationDescription": "PrecisePK is a Therapeutic Drug Monitoring (TDM) Precision Dosing software platform that bridges clinically validated research, machine learning, and Bayesian analytics for clinicians and researchers globally. PrecisePK allows clinicians to easily plan precise, individualized treatments for drugs with narrow therapeutic windows and reduced adverse events.  After inputting  patients' specific conditions, physical characteristics, lab results, and dosage history, PrecisePK will compute recommendations, predictive models, and graphical visualizations depending on the patient's current and potential serum blood levels. "
   },
   {
+    "id":"7585864a-88ff-4446-a234-a5feae300d9b",
     "applicationName": "Health Haven Api",
     "company": "Health Haven Rx",
     "applicationEmail": "Info@healthhavenrx.com",
@@ -98,6 +112,7 @@
     "applicationDescription": "Provide price transparency on medications"
   },
   {
+    "id":"82be0c24-6aa0-47ad-bb7d-7ec50866956f",
     "applicationName": "SymRx",
     "company": "Symago LLC",
     "applicationEmail": "support@symago.com",
@@ -105,6 +120,7 @@
     "applicationDescription": "SymRx is a pharmacy IVR solution utilized by pharmacies for their customers that provides self service prescription refill requests, refill status checks, general pharmacy information messaging and call transfers for inbound call processing. Outbound capabilities provide outbound notification messages for patients via calls and text messages."
   },
   {
+    "id":"9597c620-122c-4dd8-b7d9-37e91b79a84a",
     "applicationName": "CureMatch Clinical Decision Support",
     "company": "CureMatch, Inc. ",
     "applicationEmail": "ClientServices@Curematch.com",
@@ -112,6 +128,7 @@
     "applicationDescription": "CureMatch is a leader in precision medicine digital decision support solutions. Created to empower oncologists with world-class research and sophisticated AI algorithms, the CureMatch Decision Support System generates a report that assists the doctor with understanding therapeutic options that are personalized to the molecular profile of the individual patient's tumor. Clients include oncology groups and academic cancer centers, community clinics, concierge cancer groups, next-generation sequencing (NGS) labs, pharmaceutical development companies, hospitals and health systems. For more information, visit https://www.curematch.com/"
   },
   {
+    "id":"a69e6388-56c5-484e-84fb-344056939edb",
     "applicationName": "AlertWatch:OR",
     "company": "AlertWatch",
     "applicationEmail": "support@alertwatch.com",
@@ -119,6 +136,7 @@
     "applicationDescription": "Perioperative quality has emerged as a critical piece of any hospital's overall quality improvement efforts. AlertWatch, recognizing that opportunity, has created AlertWatch:OR, a real-time clinical decision support solution that integrates hundreds of data fields into an intuitive interface that turns that data into personalized, actionable insights. "
   },
   {
+    "id":"70cb68a2-2ea8-4d7a-b9fb-f28aab0bf53c",
     "applicationName": "Fora Health",
     "company": "Fora Health",
     "applicationEmail": "admin@ctrl-group.com",
@@ -126,6 +144,7 @@
     "applicationDescription": "Fora Health involves both patients and their care teams in treatment decisions through remote monitoring and supported shared decision-making - improving patient activation and supporting measurement-based and collaborative care.   "
   },
   {
+    "id":"0f081006-a328-43b5-95cb-75a8aafd10ba",
     "applicationName": "DOCTRIX Analytics",
     "company": "SYNERGEN Health LLC",
     "applicationEmail": "support@doctrix.com",
@@ -133,6 +152,7 @@
     "applicationDescription": "\"1. Cloud based Analytics and Dashboard Platform with descriptive, predictive and prescriptive analytics to help manage your revenue cycle operations  2. 400+ proprietary algorithms,  KPI's & industry best practices presented to you in an easy to navigate and drill down dashboard  3. Integrated to multiple billing systems \""
   },
   {
+    "id":"51559196-9695-4ca5-aaa0-c8b600447203",
     "applicationName": "Manage My Surgery",
     "company": "Higgs Boson Health",
     "applicationEmail": "support@higgsbosonhealth.com",
@@ -140,6 +160,7 @@
     "applicationDescription": "Manage My Surgery (MMS) is a virtual patient navigator to help guide patients through their surgical or interventional procedure journey.  The application engages patients through a native IOS/Android App, a web app, or through text messaging based on patient choice.  The application provides peri-operative reminders, FAQs, patient-reported outcomes, educational videos and also has telehealth capability.  "
   },
   {
+    "id":"dcca502c-d11e-439a-afce-142099cd731b",
     "applicationName": "Mobile Application (iOS and Android)",
     "company": "Histofi, Inc.",
     "applicationEmail": "zakir.sikder@histofi.com",
@@ -147,6 +168,7 @@
     "applicationDescription": "Care coordination during therapies to cure cancer."
   },
   {
+    "id":"3c11a2e3-160c-4390-b5e2-b7b0abf0cfc4",
     "applicationName": "Digital ROI",
     "company": "Moxe Health",
     "applicationEmail": "support@moxehealth.com",
@@ -154,6 +176,7 @@
     "applicationDescription": "Moxe automates Release of Information (ROI) requests. We partner with the leading EHRs, payers, third party requestors, and health systems to simplify data exchange."
   },
   {
+    "id":"28fa948a-f83e-4d25-a1b3-30b3e5012bfe",
     "applicationName": "Convergence",
     "company": "Moxe Health",
     "applicationEmail": "support@moxehealth.com",
@@ -161,6 +184,7 @@
     "applicationDescription": "Embedded within the EHR, Convergence transforms the way payers and providers exchange data and insights. Its secure bi-directional technology delivers the information you need, when you need it, and where you need it, so you can focus on delivering high-value care."
   },
   {
+    "id":"001ac958-50a3-4447-8204-5ce436aef165",
     "applicationName": "FIGmd Enterprise Connector (FEC)",
     "company": "FIGmd, Inc",
     "applicationEmail": "info@figmd.com",
@@ -168,6 +192,7 @@
     "applicationDescription": "\"FIGmd Enterprise Connector (FEC):  Serves as a link between the registry and the practice.  Transmits data from the practice EHR server to the Clinical Data Upload server at FIGmd via a secure port.  Initiates data mapping immediately after the installation.  Performs data pull on the EHR server once the required field mapping is completed.\""
   },
   {
+    "id":"1e5ac4b8-bc44-4bdb-9504-c3a73825590a",
     "applicationName": "FIGmd - Polaris Qualified Clinical Data Registry",
     "company": "FIGmd, Inc",
     "applicationEmail": "info@figmd.com",
@@ -175,6 +200,7 @@
     "applicationDescription": "\"Polaris is a CMS-approved Qualified Clinical Data Registry (QCDR) in collaboration with the American Society of Clinical Oncology (ASCO) and a Qualified Registry (QR). Polaris operates on cutting-edge 2015 ONC HIT certified platform and caters to solo and multi-specialty practices with MIPS reporting.  Polaris offers end-to-end data integration with over 150 EHR vendors as well as a comprehensive and user-friendly intuitive dashboard.\""
   },
   {
+    "id":"c659667c-1fab-40de-8650-a1558903d419",
     "applicationName": "FIGmd - ACO Solution",
     "company": "FIGmd, Inc",
     "applicationEmail": "info@figmd.com",
@@ -182,6 +208,7 @@
     "applicationDescription": "\"FIGmd ACO solution is powered by FIGmd registry platform whitelablled for Health systems.   Our registry platform offers end-to-end data integration with over 150 EHR vendors as well as a comprehensive and user-friendly intuitive dashboard.  Providers and practices participating in ACO MSSP Track A to D can avail the following benefits:  Report on 2 ACO categories (Quality, Promoting Interoperability (PI))  Eligible providers and practices can participate as an individual, or as part a group.\""
   },
   {
+    "id":"8c9bd98c-b7e1-47dd-a67c-8eb9de63f659",
     "applicationName": "Lumanent® Pre-Encounter Prep",
     "company": "Health Fidelity",
     "applicationEmail": "HF.info@edifecs.com",
@@ -189,6 +216,7 @@
     "applicationDescription": "\"Lumanent Pre-Encounter Prep is an Natural Language Processing (NLP) NLP-powered  prospective risk-adjustment solution for outpatient practices. It gives providers the ability to surface, evaluate, and close patient's risk \"gaps\" (missed risk adjustable diagnoses, or those in need of annual reconfirmation) prior to initial claims submission for government-sponsored payment lines.\""
   },
   {
+    "id":"426e0665-abbf-46bf-b0fd-4f78660bcbe3",
     "applicationName": "WiserCare",
     "company": "WiserCare",
     "applicationEmail": "support@wisercare.com",
@@ -196,6 +224,7 @@
     "applicationDescription": "WiserCare supports patients and their care teams in making smarter decisions about their care, from preventive screenings to major procedures and chronic conditions, to end-of-life care.  The platform uses a patented algorithm to combine evidence, patient clinical data, patient preferences and social determinants of health to provide guidance on (and to facilitate) the next best action in a patient's care.  WiserCare has proven to improve patient and provider satisfaction, improve decision quality, reduce costs and save care team time.  WiserCare can be delivered in multiple scenarios, individually or at population levels, to maximize reach and engagement. "
   },
   {
+    "id":"524c98a3-0e89-4d0e-8915-ccd9744bc84f",
     "applicationName": "CONFORM",
     "company": "EDETEK Inc",
     "applicationEmail": "help@edetek.com",
@@ -203,6 +232,7 @@
     "applicationDescription": "\"  Clinical trial sponsors need to set up and execute trials faster to deliver lifesaving medicines to patients. CONFORM™ alleviates system integration complexity that stems from disparate data acquisition systems and processing. Trial execution delays caused by incomplete or erroneous data sets are quickly identified and remediated. Clinical trial protocols are finalized sooner due to CONFORM's ability to process, analyze and assess clinical trial data in near-real time. CONFORM ensures data quality and reduces cycle time and costs in clinical trials.\""
   },
   {
+    "id":"b4fb2a77-9e86-4013-8f4f-89d0248535bb",
     "applicationName": "AlertWatch:OB",
     "company": "AlertWatch",
     "applicationEmail": "support@alertwatch.com",
@@ -210,6 +240,7 @@
     "applicationDescription": null
   },
   {
+    "id":"349e2a6c-9a6e-4d69-bbd1-b593503ca9b3",
     "applicationName": "Ocular Photoscreener",
     "company": "GoCheck Kids",
     "applicationEmail": "sales@gocheckkids.com",
@@ -217,6 +248,7 @@
     "applicationDescription": "GoCheck Kids helps primary care providers protect kids from preventable vision impairment and blindness. Our clinically-validated photoscreening app uses a smartphone to quickly detect vision risks in young children beginning at age 1. All results are automatically uploaded to the EHR or a cloud portal to track and manage your screening program."
   },
   {
+    "id":"9df07bc8-4581-4de0-b109-4e4cf02e122b",
     "applicationName": "Visual Acuity App and SDK",
     "company": "GoCheck Kids",
     "applicationEmail": "sales@gocheckkids.com",
@@ -224,6 +256,7 @@
     "applicationDescription": "GoCheck's Vision app and SDK helps healthcare professionals prevent vision impairment and blindness. Our clinically-valid visual acuity app and SDK allow clinicians to administer a digital visual acuity test in the office, at home, or embedded into their own virtual care platform, using best-practice testing protocols. All results are automatically uploaded to the EHR or a cloud portal to track and manage your screening program."
   },
   {
+    "id":"d1c6f4b8-ef4e-411b-990a-0c6c5d237c1e",
     "applicationName": "Secure Exchange Network",
     "company": "etherFax",
     "applicationEmail": "bmanning@etherfax.net",
@@ -231,6 +264,7 @@
     "applicationDescription": "Founded in 2009, etherFAX® offers a secure document delivery platform and suite of applications to digitize workflows and optimize business processes. As a leading provider of hybrid-cloud fax solutions supporting healthcare enterprises, etherFAX securely transmits protected health information (PHI) and high-resolution, color documents directly to applications and devices with end-to-end encryption and ultra-fast transmission speeds. With more than 6 million connected endpoints, etherFAX is the world's largest document exchange network, supporting every major fax server, application, and fax-enabled device. The etherFAX partner network continues to grow and evolve to strengthen platform-agnostic document delivery to and from fax providers, fax servers, EHRs, and Health Information Exchanges. etherFAX's secure, cloud-based, and encrypted data exchange solutions are SOC 2 compliant, HIPAA compliant, PCI DSS certified, and HITRUST CSF certified."
   },
   {
+    "id":"3e4ebd0d-33a6-4145-a097-3b08a453a815",
     "applicationName": "ThoroughCare",
     "company": "ThoroughCare",
     "applicationEmail": "support@thoroughcare.net",
@@ -238,6 +272,7 @@
     "applicationDescription": "Our solutions assist care providers with their participation in value-based care management and wellness programs, with focus on the combination of improved patient quality of life, reduced spending and increased revenue.  We deliver targeted solutions that enable healthcare organization success across risk models - whether it's fee for service, shared-risk, or full capitation-based programs. We are driven by our passion to improve the quality of life for every person we can. Our mission is to simplify integrated whole patient care by extending the care setting beyond the facility and into the patient home and empowering care teams through features designed with clinicians in mind, with a goal that results in thriving practices and healthy patients. "
   },
   {
+    "id":"c1bd311f-d1e7-4af0-8afe-39e1204043e0",
     "applicationName": "Check-In with Mobile Signature",
     "company": "Taylor Communications",
     "applicationEmail": "DSGHelpDesk@TaylorCommunications.com",
@@ -245,6 +280,7 @@
     "applicationDescription": "Enhance your patient intake process in registration or extend the capabilities to the comfort of their own home utilizing their own device.  Provide your patients with a more positive experience by allowing them to complete documents securely via the web/patient portal.  Patented Mobile Signature Capture capabilities are taking your patient registration process to the next level."
   },
   {
+    "id":"5c0c41fe-4896-4ae4-a079-88337db0d6b1",
     "applicationName": "ImageMover",
     "company": "ImageMover",
     "applicationEmail": "support@imagemovermd.com",
@@ -252,6 +288,7 @@
     "applicationDescription": "ImageMover helps to connect disparate imaging systems through a variety of tools. These tools help with image ingestion, secure image sharing, unscheduled image capture and automatic image compatibility processing. "
   },
   {
+    "id":"79123c20-4dc8-4132-b5c7-c2392b0f1306",
     "applicationName": "Data Activation Platform",
     "company": "Innovaccer",
     "applicationEmail": "Email support will be available in case our platform is not accessible and InApp Support can't be accessed.",
@@ -259,6 +296,7 @@
     "applicationDescription": "DAP is a leading healthcare data platform that enables healthcare organizations to bring disparate data sources together to conduct analytics, derive insights, and then act on those insights through other Innovaccer and 3rd party applications. DAP combines advanced big data technologies to deal with massive healthcare data volumes. DAP unifies disparate silos of healthcare data together using its built-in connectors and visually enabled ETL (Extract-Transform-Load) processes."
   },
   {
+    "id":"8e17ca82-b435-41be-a28e-5e328e2d1a4f",
     "applicationName": "InCare",
     "company": "Innovaccer",
     "applicationEmail": "Email support will be available in case our platform is not accessible and InApp Support can't be accessed.",
@@ -266,6 +304,7 @@
     "applicationDescription": "With Innovaccer's capability to access information from diverse data sources and deriving analytic insights to scan specific patient populations, users can identify at-risk patients, gaps in care and design care protocols and interventions as per specific patient needs using best suited treatment guidelines and protocols. Innovaccer's InCare works across the care coordination cycle by empowering the care coordination team with access to longitudinal Patient 360 records, which allows providers to search and retrieve patient information. Users can also coordinate proactive interventions for designing wellness management and outreach programs."
   },
   {
+    "id":"df14a046-12a1-482d-b54a-61b6789363ed",
     "applicationName": "InNote",
     "company": "Innovaccer, Inc.",
     "applicationEmail": "Email support will be available in case our platform is not accessible and InApp Support can't be accessed.",
@@ -273,6 +312,7 @@
     "applicationDescription": "InNote is Innovaccer's point-of-care physician engagement solution that provides physicians and their staff with reliable, unobtrusive, and actionable insights about their patients during the patient's visit.  InNote is EHR agnostic and can be installed on any provider's desktop. The application can pull insights from our integrated data lake, DAP, or any other third-party API, thereby acting as a point-of-care snapshot for scheduled and walk-in patients. The application syncs with the scheduling data to present a seamless way to discover patients in the system.  The solution is designed to help providers with a consolidated view of the patient, rather than having to search across multiple disparate patient records. The elements displayed in InNote can be customized depending on the customer's organizational & contractual priorities. InNote enables providers to deliver effective, highly efficient personalized care, leading to improved outcomes, enhanced provider performance & greater patient satisfaction."
   },
   {
+    "id":"1353f7b0-72fe-4742-9e38-530b956aa343",
     "applicationName": "InGraph",
     "company": "Innovaccer",
     "applicationEmail": "Email support will be available in case our platform is not accessible and InApp Support can't be accessed.",
@@ -280,6 +320,7 @@
     "applicationDescription": "InGraph - Innovaccer's analytics module comes with many built in features, while also allowing flexibility. It offers state-of-the-art visualization and dashboarding capabilities, all powered by the big-data infrastructure, which allows for rapid computing and scalable access.   "
   },
   {
+    "id":"96784513-3a8d-454d-9fd9-5f255d412af8",
     "applicationName": "InConnect",
     "company": "Innovaccer Inc.",
     "applicationEmail": "Email support will be available in case our platform is not accessible and InApp Support can't be accessed.",
@@ -287,6 +328,7 @@
     "applicationDescription": "Innovaccer's InConnect is a holistic solution for patient outreach and engagement. Practices can send messages to a targeted list of patients, including surveys and assessments and educational content. The information flowing in can be fed into dashboards to gain insights into campaign analytics or ROI measurements. Practices and organizations can send messages to a targeted list of patients and share educational material. It brings back the insights to support population health initiatives and present a ROI of the campaign."
   },
   {
+    "id":"33d5e226-6fd7-404c-b3a1-b06a52c8efb2",
     "applicationName": "EyeArt AI System",
     "company": "Eyenuk, Inc.",
     "applicationEmail": "frank.cheng@eyenuk.com",
@@ -305,6 +347,7 @@
     ]
   },
   {
+    "id":"737769e9-2f26-4ec0-bd0d-16f3250117a0",
     "applicationName": "Cozeva",
     "company": "Applied Research Works",
     "applicationEmail": "support@cozeva.com ",
@@ -312,6 +355,7 @@
     "applicationDescription": "Cozeva is a web-based SaaS tool that collects clinical data from provider organizations, provider practices, and health plans in weekly files. Cozeva provides accurate, reliable, and timely computation of quality measurement program rates for clients to maximize program reimbursement from their quality programs.  Cozeva's HEDIS metrics engine is able to support business decision making and forecasting by continually improving measure performance scores and reporting capabilities in real-time. "
   },
   {
+    "id":"1d59f4d2-7639-47ab-8854-fce7079133ed",
     "applicationName": "Braid Realtime Data Solution",
     "company": "Braid Health",
     "applicationEmail": "rajni@braid.health",
@@ -319,6 +363,7 @@
     "applicationDescription": "Braid's Realtime Data Solution aggregates data from multiple data sources on a single, seamless platform with setup in seconds. Whether it's data from an EHR, PACS, pathology  database, or a wearable device, getting access to data has never been easier. Paired with realtime data analytics and AI-based data augmentation, the opportunity for insights has never been greater."
   },
   {
+    "id":"686eccce-6ad2-4c04-86a6-8205d22ff708",
     "applicationName": "Braid PACS for Desktop and Mobile",
     "company": "Braid Health",
     "applicationEmail": "rajni@braid.health",
@@ -326,6 +371,7 @@
     "applicationDescription": "Braid's next generation, lightweight, powerful PACS is FDA cleared for desktop and mobile diagnostics. It's the fastest performing PACS in the marketplace today, with an elegant and efficient UI designed to delight providers and patients."
   },
   {
+    "id":"350e4860-7911-41d4-8aa5-930643ba4720",
     "applicationName": "Braid Data Highway",
     "company": "Braid Health",
     "applicationEmail": "rajni@braid.health",
@@ -333,6 +379,7 @@
     "applicationDescription": "Braid's Data Highway establishes a longitudinal channel to enable the seamless and secure bidirectional transfer of data between clinics and hospital institutions, or within an integrated care delivery network, all in realtime."
   },
   {
+    "id":"c926c2b3-ba34-4cf6-b249-37af6771612b",
     "applicationName": "Braid Collaboration Solution",
     "company": "Braid Health",
     "applicationEmail": "rajni@braid.health",
@@ -340,6 +387,7 @@
     "applicationDescription": "Braid's Clinical Trial Collaboration Solution empowers key operations roles (Principal Investigators, Site Managers, Study Coordinators, Data Coordinators, and Researchers) to  collaborate on participant enrollment and aggregated data in realtime, all in a single powerhouse of a platform."
   },
   {
+    "id":"ced15cc5-eef8-4487-a2ff-f647d62a2a31",
     "applicationName": "Braid Feasibility Solution",
     "company": "Braid Health",
     "applicationEmail": "rajni@braid.health",
@@ -347,6 +395,7 @@
     "applicationDescription": "Braid's Feasibility Solution is the first realtime, quantitative solution for clinical trial feasibility assessment. Braid enables healthcare institutions and pharma to confidentially and securely query potential partner site data platforms (EHR, PACS, pathology databases, and more) to understand in realtime the number of qualifying patients in advance of launching a clinical trial partnership. This solution aids in optimizing for successful trial completion, specifically with regards to site selection, timelines, and cost."
   },
   {
+    "id":"bef0f9c0-cca0-4273-a4da-2dd0ba2917f6",
     "applicationName": "Sciocardio AI ECG Analysis Platform",
     "company": "SYNERGEN Technology Labs LLC",
     "applicationEmail": "info@synergentl.com",
@@ -354,6 +403,7 @@
     "applicationDescription": "Real time Medical grade AI based ECG analysis platform.  Sciocardio is an open platform that is built to integrate with multiple ECG devices and analyze the data in real time for diagnostic assessments. Sciocardio platform is trained and validated on millions of data points from long terms ECG monitoring to ensure high level of accuracy.  "
   },
   {
+    "id":"760c642f-9477-4de3-81d5-3016cb2a40fc",
     "applicationName": " @Point of Care",
     "company": "At Point of Care, LLC",
     "applicationEmail": "info@atpointofcare.com",
@@ -361,6 +411,7 @@
     "applicationDescription": "@Point of Care, through its AI and cognitive technology, enables clinicians, in their workflow, to view patient-reported data at the point of care to inform clinical decisions based on up-to-the-minute evidence-based clinical information gathered by over 300 thought leaders and independent peer reviewers in over 30 chronic conditions.    Our product is different as it allows bi-directional data exchange between clinicians and patients and the data that is exchanged is actionable data which can trigger learning and treatment interventions to address knowledge and care gaps while empowering the patient voice through shared decision making (SDM), and tracking patient outcomes through validated measures.     These interventions can be customized to include real-world data, wearable data and personalized learning via digital assistant and chatbots all integrated into EMR/EHR."
   },
   {
+    "id":"2affa20c-10f7-42d1-a599-50f23c211824",
     "applicationName": "Lumeon Care Journey Orchestration Platform",
     "company": "Lumeon",
     "applicationEmail": "info@lumeon.com",
@@ -368,6 +419,7 @@
     "applicationDescription": "The leader in care journey orchestration, Lumeon delivers intelligent automation to transform how care is delivered - digitizing provider workflow to improve financial, clinical and human outcomes for health organizations, their care teams, and their patients.    Lumeon's orchestration platform complements existing provider technology, such as the EHR, to proactively navigate patients and care teams along the optimal operational care plan, extending beyond the four walls of the hospital or clinic. As a proactive system of action, it combines operational automation with digital patient engagement, care team coordination and decision support to manage efficient, personalized and connected care journeys, with enterprise-wide use cases."
   },
   {
+    "id":"e15e033d-a5e2-42dd-883d-a2e811f3ea7d",
     "applicationName": "Cognitive Testing Battery",
     "company": "Neurotrack Technologies",
     "applicationEmail": "grace@neurotrack.com",
@@ -375,6 +427,7 @@
     "applicationDescription": "Neurotrack's digital tests have demonstrated efficacy in identifying early cognitive decline and stratifying patients based on severity. Neurotrack's digital tests are concise and can be completed both remotely and virtually on a platform. The \"eyes on the patient\" technology allows for capturing test taking sessions and behavior to ensure validity."
   },
   {
+    "id":"af8e95e2-5d84-4566-b433-2b508062da1b",
     "applicationName": "Axiom Healthcare Suite",
     "company": "Syntellis",
     "applicationEmail": "syntellisclientsupport@syntellis.com",
@@ -382,6 +435,7 @@
     "applicationDescription": "The Axiom Healthcare Suite from Syntellis Performance Solutions provides strategy-based performance solutions to help healthcare organizations realize their missions and improve both financial and clinical performance. Over 2,500 organizations rely on our software built upon three decades of industry expertise to model their futures, analyze results and surpass their most challenging and ambitious business goals. Tailor made for the complexities of healthcare, our suite features cost and decision support, financial and clinical analytics, contract management, and a full suite of enterprise planning solutions that offer flexibility and ease-of-use to drive near-term success and long-term sustainability."
   },
   {
+    "id":"b25b8d0a-daa2-4d0a-8ae0-184a975cc99b",
     "applicationName": "Wellsheet",
     "company": "Wellsheet",
     "applicationEmail": "support@wellsheet.com",
@@ -389,6 +443,7 @@
     "applicationDescription": "Wellsheet is an engagement layer for EHR that enhances provider productivity and user experience by enabling predictive charting, care team collaboration, and decision support. Wellsheet reduces the time the clinician spends in the EHR as well as improves patient safety and quality of care."
   },
   {
+    "id":"8e28bbbc-dcf6-4719-9289-7838df21f8df",
     "applicationName": "xINFORM",
     "company": "xCures",
     "applicationEmail": "kwong@xcures.com",
@@ -396,6 +451,7 @@
     "applicationDescription": "Uses Artificial Intelligence to gather and structure cancer patients' medical records to create a summary of their cancer history and a personalized Options Report to patients and their providers, where PhD Scientists use A.I. to sift through the vast amount of evidence in their options library. The evidence for different treatment options is assembled in a report that includes all the latest clinical research and learnings from other cancer patients on the platform. "
   },
   {
+    "id":"e446a3e4-2d81-424e-9c72-836ddb92e2e0",
     "applicationName": "OptiCor",
     "company": "tenacio",
     "applicationEmail": "georg.van_husen@tenac.io",
@@ -403,6 +459,7 @@
     "applicationDescription": "OptiCor's validated atrial fibrillation algorithm predicts the risk of mortality, stroke, and bleeding for a cardiovascular patient based on his/her individual clinical data. OptiCor then produces an easy-to-understand visualization of  the patient's risk and the impact of optimized treatment, which aids in explaining the risks and treatment effects to the patient, thereby supporting shared decision making. Finally, OptiCor provides guideline-based, personalized, and practical treatment optimization plan."
   },
   {
+    "id":"b01f6096-ac22-44a5-bcc6-79569e6a5039",
     "applicationName": "Patient Education Genius",
     "company": "Patient Education Genius",
     "applicationEmail": "support@patienteducationgenius.com",
@@ -410,6 +467,7 @@
     "applicationDescription": "Patient Education Genius is a customizable patient communication solution that makes it easy for your organization to distribute information, engage patients, fulfill compliance requirements, and drive utilization of your services Patient Education Genius (PEG) allows providers to easily upload, organize and distribute their own handouts, videos, brochures, and other patient-facing content. Patients receive your materials instantly and can review them anytime or anywhere - no download or \"sign up\" required. PEG's 70%+ engagement rate means you can connect with your patients like never before.    Don't have your own materials? Select education from our library of over 40,000 patient-facing resources. No matter the diagnosis, it's easy to find and share patient-specific education via secure text message or email - and your engagement efforts are automatically documented in the patient's chart for compliance and quality payment programs.    Our customizable patient messages feature your organization's branding and promote your offerings, driving awareness and utilization of your services - like flu shots, screenings, classes, the patient portal, online bill pay, and anything in between."
   },
   {
+    "id":"d26855ed-4f35-4a23-8445-79b4e5fc0882",
     "applicationName": "mehealth for ADHD",
     "company": "Cincinnati Children's Medical Center",
     "applicationEmail": "support@mehealth.com",
@@ -417,6 +475,7 @@
     "applicationDescription": "The mehealth system was developed to address common challenges that practices have in implementing high quality ADHD care in accordance with gold-standard clinical practice guidelines. mehealth is a secure web-based application that provides physicians with the following functionalities to facilitate high quality ADHD care:    • Automated online collection of parent and teacher ADHD rating scales during assessment and at physician-designated intervals to monitor response to treatment    • Efficient, easy-to-interpret assessment reports and treatment graphs summarizing parent and teacher ratings and feedback    • Notifications to care team if a patient is displaying behavioral deterioration or problematic side effects    • Families can access behavioral treatments through parent-facing interface    • A unified user-interface, extraction of medication history from Epic into mehealth for ADHD, and an encounter note generator that summarizes rating scale data    • The ability to earn 20 ABP Maintenance of Certification Part IV credits for every year of use"
   },
   {
+    "id":"133914e7-1ea7-4724-a89b-0fe1cbf0f0dc",
     "applicationName": "Yesil Health",
     "company": "Yesil Science",
     "applicationEmail": "hello@yesilhealth.com",
@@ -424,6 +483,7 @@
     "applicationDescription": "Yesil Health is a mobile health assistant where users can analyze their health in a holistic way, analyze and manage their health data with the experts in the app so that they can protect and improve their health before the disease develops."
   },
   {
+    "id":"c434f7f1-5f38-4b66-8c13-7a12b6e81925",
     "applicationName": "Juxly Vault",
     "company": "Juxly",
     "applicationEmail": "support@juxly.com",
@@ -431,6 +491,7 @@
     "applicationDescription": "Juxly makes collaboration between payers and providers easier by delivering actionable data related to risk operations from payers to providers at the point of care. "
   },
   {
+    "id":"cc10d652-5ca2-47b8-8eff-ac1c41b14daa",
     "applicationName": "Juxly Portal",
     "company": "Juxly",
     "applicationEmail": "support@juxly.com",
@@ -438,6 +499,7 @@
     "applicationDescription": "Juxly Portal allows population health experts to get an overview of the risk adjustment status of their patient population. Providers and office staff can also enter data and print risk adjustment forms for their patients. "
   },
   {
+    "id":"a29797c5-ff64-4e60-af8f-cef6d0a8fb76",
     "applicationName": "PreMedicus® ER",
     "company": "PreMedicus® LLC",
     "applicationEmail": "ceo@premedicus.com",
@@ -445,6 +507,7 @@
     "applicationDescription": "PreMedicus® ER is a user-friendly patient facing mobile app that accurately triages over 100 medical  conditions, provides real-time patient-specific triage advice with in-app 911 call capability, and GPS guidance to nearby pharmacies, physician offices, urgent care facilities or emergency departments as deemed appropriate by the Triage Engine.  PreMedicus® ER can be integrated with telemedicine platforms and the digital front door of urgent care, ER and retail pharmacy facilities. Please follow this link to watch a short demonstration video:  https://drive.google.com/file/d/1QsLjk3nDRh8H4-WlW7jjbiYRmVR-TUxv/view?usp=sharing"
   },
   {
+    "id":"2bd84cfc-7b54-4123-8a50-6d5327480474",
     "applicationName": "PreMedicus® ASV",
     "company": "PreMedicus® LLC",
     "applicationEmail": "ceo@premedicus.com",
@@ -452,6 +515,7 @@
     "applicationDescription": "PreMedicus® ASV is an adult sick visit management app for virtual or in-person healthcare that automates all aspects of the patient-provider interaction.  Both parties link securely to our cloud platform on this intuitive mobile app that collects information in parallel, and reformats clinical and billing data in real time to reduce staff work burdens and exposure risks, and to improve both patient and provider experience.  "
   },
   {
+    "id":"02189435-9a4b-45d6-8ff5-bcdd8c5ad8a5",
     "applicationName": "Pieces Predict",
     "company": "Pieces, Inc. ",
     "applicationEmail": "businessdevelopment@piecestech.com",
@@ -459,6 +523,7 @@
     "applicationDescription": "Pieces Predict uses artificial intelligence to predict outcomes so health care providers can intervene early and efficiently"
   },
   {
+    "id":"92858587-9322-4ecd-b7d7-74fa3abb2d4f",
     "applicationName": "MigrnX",
     "company": "SensorRx Inc. ",
     "applicationEmail": "migrnx@sensorrx.io",
@@ -466,6 +531,7 @@
     "applicationDescription": "Migraine patients use the digital diary to better manage documenting their episodes, so their physician can optimize their medical regimen. A new module allows users to use the collected data for individualized migraine predictions. The predictions have been clinically test, and have been extremely accurate, >70% in the HFEM and Chronic populations. The clinic can bill for the doc reviewing the records with new CMS codes."
   },
   {
+    "id":"d3e13978-a13d-4098-af34-74866d1bc6f7",
     "applicationName": "Pieces Connect",
     "company": "Pieces, Inc.",
     "applicationEmail": "support@piecestech.zendesk.com",
@@ -473,6 +539,7 @@
     "applicationDescription": "Pieces Connect is a cloud-based case management and referral platform for people in need of community services. With our affordable solution, you can make closed-loop referrals and know your patients or clients are getting the additional support they need. With the reduction of manual effort, case managers work more efficiently and improve health outcomes."
   },
   {
+    "id":"1ebf6422-ecc2-4421-84fa-6f8dc2182cc1",
     "applicationName": "Ina, the Intelligent Nutrition Assistant.   A digital, SMS-based virtual dietitian on demand",
     "company": "Savor Health",
     "applicationEmail": "ina@savorhealth.com",
@@ -480,6 +547,7 @@
     "applicationDescription": "The goal of Savor Health is to democratize access to personalized, evidence-based nutrition intervention, guidance and education for people living with chronic medical conditions.  To empower patients with symptom and disease-self management tools that give them back control, allow them to remain independent and improve their quality of life.  Build the evidence to validate \"nutrition as intervention\" so that it will be reimbursed and standard of care. "
   },
   {
+    "id":"975bbe72-dce4-40af-9aae-3e9393e184e8",
     "applicationName": "Digital Health",
     "company": "Healthpointe Solutions, INC.",
     "applicationEmail": "jib@healthpointe-Solutions.com",
@@ -487,6 +555,7 @@
     "applicationDescription": "Our Population Health Analytics is focused on monitoring emerging conditions and treatment guidelines to keep quality in the system high while reducing costs and treatment variations across the provider community in alignment with evidence-based medicine."
   },
   {
+    "id":"d427d0b5-a0b4-483c-a46c-ca70fd00df0f",
     "applicationName": "Benovymed",
     "company": "Benovymed Healthcare Private Limited",
     "applicationEmail": "contact@benovymed.com",
@@ -494,6 +563,7 @@
     "applicationDescription": "In complete end to end Innovative Holistic Health Solutions with Integrated Care Delivery in terms of High Clinical Efficacy-Treatment Outcome-Health management | Care Experience | Value-based Care | Innovative Care Solutions in  Prevention  | Screening | Early Detection |  Dr. Consultation | Diagnosis  |  Prognosis | Treatment |  Complete Disease Management & Control   ​for Impacting the Lives of Billion of People Globally in   COVID-19  Pandemic Readiness Preparedness in Present | Future Emerging Infectious Disease Pandemic Management Preparedness Readiness  ​  &  Chronic Diseases ( Non-Communicable Disease) All Types and all Stages of Cancer  |  Diabetes  |  Heart Disease  |  Mental Health  |  COPD"
   },
   {
+    "id":"b8b6e1ab-3e86-4ff9-85fc-a386e97c3cfe",
     "applicationName": "Front Door",
     "company": "GYANT",
     "applicationEmail": "support@gyant.com",
@@ -501,6 +571,7 @@
     "applicationDescription": "GYANT Front Door is a conversational AI assistant that lives on a hospital system's website or patient portal to guide patients to the care or resources they need, 24/7."
   },
   {
+    "id":"5fbbacaf-d487-48b4-8283-90d92f749752",
     "applicationName": "Victoria Krasilshikova",
     "company": "MedM",
     "applicationEmail": "victoria.k@medm.com",
@@ -508,6 +579,7 @@
     "applicationDescription": "MedM can perform direct data collection from virtually any smart medical sensor via any hub or iOS/Android smartphone, wirelessly sync it to virtually any cloud or server, and export data to MedM-powered caregiver portals or EHR/EMR systems via API."
   },
   {
+    "id":"9d098337-ec64-4f85-ba03-9e285632465f",
     "applicationName": "Hico DashBoard",
     "company": "Hico Health",
     "applicationEmail": "info@hico.health",
@@ -534,6 +606,7 @@
     ]
   },
   {
+    "id":"76ceb568-a6d6-41ca-93c1-87c5f72a5460",
     "applicationName": "Fertility & Reproductive Health Coaching",
     "company": "ELANZA Wellness",
     "applicationEmail": "Support@elanzawellness.com",
@@ -541,6 +614,7 @@
     "applicationDescription": "This evidence-based fertility coaching platform inclusive of 1-1 fertility coaching and personalized digital tools offers a structured and supportive environment to help manage the emotional stress surrounding any type of family building journey."
   },
   {
+    "id":"7910bde8-2dd2-47fd-839b-b22ab8a50f13",
     "applicationName": "CareX eTest Results",
     "company": "Providertech",
     "applicationEmail": "ryan.louis@providertech.com",
@@ -548,6 +622,7 @@
     "applicationDescription": "CareX eTest results helps providers, labs, pharmacy's and testing centers safely notify patients of lab, COVID-19 and flu results faster with HIPAA-compliant text messages.  Our secure messaging platform automates lab test results delivery so you can:  - Alert your patients of test results as soon as they are signed off\t  - Provide \"tracking\" status of test results to your patients\t  - Securely display test results electronically to your patients  - Minimize phone tag between patients and staff  - Reduce unnecessary office visits  - Streamline virtual follow-up after lab results delivery"
   },
   {
+    "id":"1de7f68c-087a-4e9b-aaf0-91642a3a3e91",
     "applicationName": "ELANZA Wellness",
     "company": "ELANZA Wellness",
     "applicationEmail": "ELANZA Wellness",
@@ -555,6 +630,7 @@
     "applicationDescription": "For users to access video coaching with Board Certified Health and Wellness coaches and engage with audio, video and other content to support their coaching process. "
   },
   {
+    "id":"d27c3f45-941b-430f-9f39-b41dfed5f05b",
     "applicationName": "Ada Symptom Assessment and Care Navigation",
     "company": "Ada Health",
     "applicationEmail": "partnerships@ada.com",
@@ -562,6 +638,7 @@
     "applicationDescription": "Provide patients with a highly accurate and safe AI-based symptom assessment, advice, care navigation and clinical handover. Empower consumers, increase out-of-hospital care options, reduce avoidable care encounters, and improve uptake of more efficient care delivery methods, such as telehealth. "
   },
   {
+    "id":"2760d742-1fb3-44f5-95df-44e97f04a912",
     "applicationName": null,
     "company": "ViTel Health, Inc. ",
     "applicationEmail": "support@vitelhealth.com",
@@ -569,6 +646,7 @@
     "applicationDescription": "Our software is designed to facilitate physicians and healthcare professionals in the delivery of telehealth services. We deliver telehealth platforms for a variety of markets including workers' compensation, general medicine, skilled nursing facilities, RPM (remote patient monitoring), CCM (chronic care management), and telepsych. Our platfroms connect all aspects of the care continnum to deliver a seamless connectivity experience for the physician, patients, and administrators.  "
   },
   {
+    "id":"5b4a598d-6cae-450c-b59d-356f782404cf",
     "applicationName": "CARE",
     "company": "Ambry Genetics",
     "applicationEmail": "ClientSolutions@ambrygen.com ",
@@ -576,6 +654,7 @@
     "applicationDescription": "The CARE Program™ from Ambry Genetics simplifies the screening and testing process for both patients and providers. Our easy-to-use platform integrates seamlessly into your existing clinical workflows and helps your patients get access to education, results, and referrals - all in one place."
   },
   {
+    "id":"8b5e5340-2b66-4dec-a10a-c96bf96be80a",
     "applicationName": "Patient Connect™",
     "company": "AiCure",
     "applicationEmail": "INFO@AICURE.COM",
@@ -583,6 +662,7 @@
     "applicationDescription": "AiCure Patient Connect™ is a suite of HIPAA and GDPR-compliant tools built within a mobile application to improve patient engagement, improve the relationship between the site and the patient, and achieve a deeper understanding of individual and population-wide disease symptomology for improved health and trial outcomes."
   },
   {
+    "id":"cea62093-6657-4d39-a70f-b48802ecf578",
     "applicationName": "OpenDBM",
     "company": "AiCure",
     "applicationEmail": "opendbm@aicure.com",
@@ -590,6 +670,7 @@
     "applicationDescription": "OpenDBM, which aims to be a community-owned repository for methods in digital phenotyping, allows users to utilize and contribute to a bank of models that quantify behavior to calculate biomarkers such as facial expressivity, acoustics of voice, characteristics of speech, and patterns of movement. Researchers can use OpenDBM to include these measures in their work and collaborate with other scientists on validation of novel methods in digital phenotyping. All code, documentation, and tutorials can be found on the project's Github and wiki pages;"
   },
   {
+    "id":"c9e756de-f679-4914-b655-de4eff64e1e1",
     "applicationName": "Health Curious",
     "company": "Health Curious",
     "applicationEmail": "robin.anne.laird@gmail.com",
@@ -597,6 +678,7 @@
     "applicationDescription": "We help bariatric surgery clinics provide personalized virtual care for their patients at home. Our software offers self-monitoring tools, educational content, and social support- all tailored to each clinic's philosophy and program. "
   },
   {
+    "id":"4cbf9b66-c8ef-49d4-8d69-5b55e0d8a36a",
     "applicationName": "AESOP",
     "company": "Novoic",
     "applicationEmail": "aesop@novoic.com",
@@ -604,6 +686,7 @@
     "applicationDescription": "Novoic's AESOP devices detect mild cognitive impairment (MCI) and amyloid specific cognitive impairment based from a <5minute speech recording. The assessment can be administered in person or remotely in a supervised or unsupervised manner, and has been validated in two clinical trials across the UK and the US."
   },
   {
+    "id":"9b65cdab-afb2-4ca1-8f8c-f0b06623191b",
     "applicationName": "b.well Connected Health",
     "company": "b.well Connected Health",
     "applicationEmail": "support@icanbwell.com",
@@ -611,6 +694,7 @@
     "applicationDescription": "b.well's mission is to deliver a reimagined healthcare experience to today's digital-first healthcare consumer.    The b.well Unified Patient Experience Platform empowers our clients to quickly deliver a transformational experience to the populations they serve aligned to consumer expectations of digital-first, transparent, convenient and personalized care while also advancing their ability to quickly take on new payment models and deliver new care modalities. The branded SaaS platform is built on real-time interoperability with a vast set of live connected health data authorized and shared by consumers. Configurable workflows leverage this data and empowers clients to deliver care coordination proactively and with personalized messaging. Finally, the integrations allow for auto-onboarding of solution partners with last mile delivery of digital health programs to the populations they serve. The future of health care is collaborative and requires companies of all kinds to work together to deliver care in a combination of in-person, virtual, and digital services and requires delivery of an all-in-one healthcare experience that consumers trust."
   },
   {
+    "id":"3e662107-d631-432b-ba98-270ad5ce83be",
     "applicationName": "Controlled Substance Monitoring",
     "company": "Pilleve, Inc.",
     "applicationEmail": "info@pilleve.com",
@@ -618,6 +702,7 @@
     "applicationDescription": "Our applications simplifies and automates controlled substance monitoring and stewardship. We provide an app and physical device that accurately tracks prescription usage and relays that information directly to the care team in real-time so early action or SBIRT can be implemented. The system can be customized to fit specific workflows and care needs such as different questionnaires and alerts."
   },
   {
+    "id":"3d82b9c8-9670-4621-8392-1568d594f05f",
     "applicationName": "Owkin Connect",
     "company": "Owkin",
     "applicationEmail": "mathieu.galtier@owkin.com",
@@ -625,6 +710,7 @@
     "applicationDescription": "Owkin Connect is our proprietary federated learning (FL) software that powers collaborations between hospitals, research centers, technology partners and biopharma companies in a privacy-preserved way. Our distributed architecture and federated learning capabilities allow data scientists to securely connect to decentralized, multi-party datasets and train AI models without having to pool data. Owkin Connect is based on Substra, an open-source software framework developed by us for orchestrating distributed machine learning tasks in a secure way. Substra is based on the distributed ledger technology Hyperledger Fabric. This forms the heart of Owkin's fully transparent and non-forgeable traceability platform.    "
   },
   {
+    "id":"66684617-ef49-4447-bf54-61c3be8860cf",
     "applicationName": "OBGYN Health Assessment",
     "company": "LiteraSeed",
     "applicationEmail": "hello@literaseed.io",
@@ -632,6 +718,7 @@
     "applicationDescription": "LiteraSeed provides non- and mixed-literacy female and pregnant patients with a visual and audio interface for sharing symptoms and medical concerns with their provider in advance of their scheduled OBGYN appointment. Both patient and provider are better prepared for the medical encounter making the visit more productive and efficient while reducing the chances of misdiagnosis from miscommunication. The LiteraSeed OBGYN app also has symptom monitoring and fetal movement tracking that can flag potential issues early."
   },
   {
+    "id":"9d483715-0f46-4c4c-ac28-35d8eb17e5c0",
     "applicationName": "Mental Health Assessment",
     "company": "LiteraSeed",
     "applicationEmail": "hello@literaseed.io",
@@ -639,6 +726,7 @@
     "applicationDescription": "LiteraSeed provides non- and mixed-literacy behavioral and mental health patients with a visual and audio interface for sharing symptoms with their counselor in advance of their scheduled appointment. Traditionally, depression and anxiety inventories are filled out on paper forms in the clinic. LiteraSeed's digital inventory allows both patient and provider to be better prepared for the medical encounter making the visit more productive and efficient. The LiteraSeed app also has symptom monitoring and tracking that can flag potential issues, enabling early detection of changes in patient status and facilitating just-in-time intervention."
   },
   {
+    "id":"2e7689da-bab6-4084-8094-5732cfda715a",
     "applicationName": "COVID Screen",
     "company": "LiteraSeed",
     "applicationEmail": "hello@literaseed.io",
@@ -646,6 +734,7 @@
     "applicationDescription": "From doctors covered from head-to-toe in PPE to plexiglass dividers in reception areas, the COVID-19 epidemic has highlighted the communication barriers already present in healthcare. When a new variant emerges and COVID precautions are renewed, LiteraSeed allows patients with low literacy and low health literacy to accurately and remotely self-report symptoms that may have otherwise gone unreported, unidentified, or misunderstood. The app integrates within messaging apps (e.g. SMS, WhatsApp) for scalable deployment that facilitates patient screening before an in-person physician encounter, helping to keep staff safe from accidental COVID exposure."
   },
   {
+    "id":"1742d49f-f4be-40fa-aaa9-a9fd6ad5c154",
     "applicationName": "Clinical Pipe",
     "company": "Protocol First",
     "applicationEmail": "help@protocolfirst.com",
@@ -653,6 +742,7 @@
     "applicationDescription": "CP transfers 50-80% of total trial data (labs, medications, EKG, MRI, etc), with a few mouse clicks, instead of site staff manually transcribing it from one system to the other. This saves research staff a lot of time, reduces queries and transcription errors, delivers data faster (data is typically available in the sponsors research database, the EDC, the same day, instead of on average 2 weeks later) and decreases sponsors costs associated with onsite monitoring, due to SDV being unnecessary on any data passed via CP."
   },
   {
+    "id":"ce1f8bc2-13a2-4d78-b167-151512396266",
     "applicationName": "Merck Manuals API",
     "company": "Merck Manuals",
     "applicationEmail": "eryn.werner@merck.com",
@@ -660,6 +750,7 @@
     "applicationDescription": "Our API is readily available and completely free to implement. It is fully Infobutton enabled and available through an HL7 compliant, open source API for ease of import."
   },
   {
+    "id":"29a2673d-a112-4b3f-94b2-d81e6e087e16",
     "applicationName": "Chart2PDF",
     "company": "Keena Healthcare Technology",
     "applicationEmail": "All clients are given secure access to our CRM portal to submit and track support tickets. We use NetSuite as our CRM.",
@@ -667,6 +758,7 @@
     "applicationDescription": "Chart2PDF is a powerful workflow enhancement tool designed to make exporting patient records efficient, easy and fast.     It provides for quick conversion of patient charts to PDF format allowing the output of 1 or 10,000 patient records, saving time and improving your workflow.    It is particularly useful for insurance and legal audits or to create summary records for outgoing providers, and for patients who would like to have a simple digital record available on-demand."
   },
   {
+    "id":"71991619-1ad7-4b8e-b236-c36a3e043753",
     "applicationName": "OTWonco",
     "company": "OTAWA Health",
     "applicationEmail": "suporte@otawa.net",
@@ -674,6 +766,7 @@
     "applicationDescription": "OTWonco is a comprehensive Oncology-EHR and CDS system created BY and FOR cancer care professionals.     It includes multidisciplinary oncology records for physicians, nurses, pharmacists, nutritionists and psychologists on a rich and structured oncology data set.    OTWonco efficiently manages the continuum of cancer care through agreed upon clinical pathways and lines of conduct, truly allowing a personalized medicine using:  • Over 400 predefined treatment protocols  • ICD10  • Cancer staging (AJCC, UICC)   • Molecular/Genetic markers  • Histological profile    OTWonco uses data set modeled in FHIR HL7 for seamless interoperability, is HIPAA compliant, and adheres to Joint Commission International and Accreditation Canada requirements for data patient management."
   },
   {
+    "id":"8f5e6629-d9f7-4e40-8a09-f08f8933e48a",
     "applicationName": "EHR Barcode Reader",
     "company": "Keena Healthcare Technology",
     "applicationEmail": "All clients are given secure access to our CRM portal to submit and track support tickets. We use NetSuite as our CRM.",
@@ -681,6 +774,7 @@
     "applicationDescription": "EHR Barcode Reader is an add-on application that streamlines the administration of immunizations and medications for users of Allscripts® TouchWorks™ EHR or NextGen® Enterprise EHR.     Utilizing 2D barcode reader technology, this application instantly collects medication or vaccine data and populates key fields in your EHR including NDC, lot and expiration date.    With regulations like the National Childhood Vaccine Injury Act (NCVIA) that mandate documentation of vaccine product identification and lot number, a tool like EHR Barcode Reader will save time, reduce unnecessary keystrokes, and eliminate costly data entry errors. EHR Barcode Reader will free up your clinical staff to focus on your value-based care goal."
   },
   {
+    "id":"cd097261-291b-441e-abf3-1b74ec60f3fa",
     "applicationName": "On Call People, Inc",
     "company": "On Call People, Inc",
     "applicationEmail": " hamza.jamil@oncallpeople.com",
@@ -688,6 +782,7 @@
     "applicationDescription": "On Call People (OCP), was designed with the goal of improving the quality of care for patients and the of life for providers. It is a healthcare focused workforce management platform with built in intelligence to correctly schedule providers, allow them to communicate with each other in a HIPPA complaint manner, easily swap shifts, and avoid booking providers that have already been working multiple shifts. It calculates real-time hours and prevents provider burnout while making sure health care facilities can always find coverage for open shifts. "
   },
   {
+    "id":"6a59c6f4-afb7-4c62-ab8d-42d91f5e2c35",
     "applicationName": "Libby IAAA",
     "company": "Dyad Medical",
     "applicationEmail": "support@dyadmed.com",
@@ -695,6 +790,7 @@
     "applicationDescription": "Perform automated analysis of intravascular Optical Coherence Tomography images. Focus on stent analysis and visualization."
   },
   {
+    "id":"f98e4715-bb52-4cf2-868d-417a68196d6a",
     "applicationName": "Cedar Pay and Cedar Pre",
     "company": "Cedar",
     "applicationEmail": "support@cedar.com",
@@ -702,6 +798,7 @@
     "applicationDescription": "Healthcare consumers get frustrated when providers and health plans are out of sync. Cedar Pay is the only solution that integrates with both parties for a superior personalized patient billing experience."
   },
   {
+    "id":"368f66a1-d503-4e01-b3aa-571f8bfeab24",
     "applicationName": "Eko Digital Stethoscope + EKG",
     "company": "Eko Health",
     "applicationEmail": "support@ekohealth.com",
@@ -709,6 +806,7 @@
     "applicationDescription": "Allows providers to visualize, record, share, live-stream and analyze heart/lung sounds and EKG."
   },
   {
+    "id":"d3b96d36-26c6-410b-b56d-0661bd54346f",
     "applicationName": "InpharmD",
     "company": "InpharmD",
     "applicationEmail": "janhavi@inpharmd.com ",
@@ -716,6 +814,7 @@
     "applicationDescription": null
   },
   {
+    "id":"36b7886c-eead-478a-a82f-b66a18d68eb9",
     "applicationName": "MirrorMe Platform",
     "company": "MirrorMe3D",
     "applicationEmail": "support@mirrorme3d.com",
@@ -723,6 +822,7 @@
     "applicationDescription": "The MirrorMe Platform connects surgical planning with remote monitoring for plastic and reconstructive surgery.     Complete custom case plans, from transgender surgeries to facial reconstruction, and monitor actual changes achieved postoperatively.     Additionally, MirrorMe supports patient visualizations, communication and engagement, and secure data transfers.    "
   },
   {
+    "id":"a89c6ef6-740f-43a0-bb48-eeeb8c4502dc",
     "applicationName": "Akenta Health",
     "company": "Akenta Health",
     "applicationEmail": "marco@akentahealth.com",
@@ -730,6 +830,7 @@
     "applicationDescription": "Akenta offers a 1-year doctor-led mobile-first health program aimed at reducing long-term atherosclerotic cardiovascular disease (ASCVD) risk. Each patient is accompanied in this journey from a clinical team composed of a physician and health coach.  The program is a combo therapy that pairs pharmaceuticals with lifestyle coaching and is built in phases that focus on different aspects of the healing process and each phase contains specific objectives that must be met to pass onto the next stage."
   },
   {
+    "id":"2ce413d5-1f65-49ea-beed-5e4f0151a053",
     "applicationName": "Kintsugi Voice",
     "company": "Kintsugi",
     "applicationEmail": "nick@kintsugihello.com",
@@ -737,6 +838,7 @@
     "applicationDescription": "Kintsugi Voice is biomarker software used to detect signs of clinical depression and anxiety from short clips of free form speech. Kintsugi is working exclusively with the top innovators in population health and risk/quality management programs to integrate Kintsugi Voice API into clinical call centers and telehealth applications to improve patient stratification and create a leading indicator for patient outcomes."
   },
   {
+    "id":"9fb5ff18-0a9e-4b38-a132-aaf5b1f5a459",
     "applicationName": "Hucu.ai",
     "company": "Hucu.ai",
     "applicationEmail": "info@hucu.ai",
@@ -744,6 +846,7 @@
     "applicationDescription": "Hucu.ai offers patient-centered messaging. We make it easy for healthcare teams within and across organizations to stay connected to coordinate optimal care for their patients - one patient at a time. Plus, deep analytics drive better care coordination, improved patient outcomes and higher team satisfaction."
   },
   {
+    "id":"7b8a8d8e-f40b-4b8b-92c7-1549a95cd9ae",
     "applicationName": "KelaHealth Surgical Intelligence Platform",
     "company": "KelaHealth",
     "applicationEmail": "support@kelahealth.com",
@@ -751,6 +854,7 @@
     "applicationDescription": "The KelaHealth Surgical Intelligence Platform delivers patient-specific predictive insights and recommended interventions at key decision points in the surgical journey to improve care quality and clinical operations"
   },
   {
+    "id":"ac7d6721-236d-45f0-b07a-78e3932c6ee6",
     "applicationName": "LiveArchive",
     "company": "Keena Healthcare Technology",
     "applicationEmail": "jay.mangicaro@keenahealth.com",
@@ -758,6 +862,7 @@
     "applicationDescription": "LiveArchive is an integrated suite of healthcare archival applications. Providers and staff access and interact with all of your archived clinical and financial information through an intuitive dashboard stored in a platform-agnostic data warehouse. Users are able to search, filter, organize, compile, output, and interact with all archived clinical and financial data. LiveArchive aggregates all data into one centralized location, keeping your practice in compliance while improving your organization's efficiency by giving access to your team. It's like having a mini EHR attached to your archive data, without the  licensing, hassle or expense of your old system."
   },
   {
+    "id":"76c48183-794d-483b-a5ca-0984835d47ce",
     "applicationName": "InteleFiler",
     "company": "Keena Healthcare Technology",
     "applicationEmail": "jay.mangicaro@keenahealth.com",
@@ -765,6 +870,7 @@
     "applicationDescription": "InteleFiler solves the growing problem of unfiled medical records in EHR systems. With millions of unfiled patient records, the accuracy, safety, and efficacy of patient care become a serious concern for all providers. InteleFiler leverages advanced technology that combines document management and workflow automation to analyze, index, and import documents and data into your EMR.     Improve your practice with InteleFiler to eliminate manual workflow, increase the accuracy of your patient record input, and make all patient records available to your providers within your EHR. InteleFiler is designed to integrate into your existing systems and workflow."
   },
   {
+    "id":"61635108-9bf2-4fd9-ab28-44165850e328",
     "applicationName": "Manage My Pain",
     "company": "ManagingLife, Inc.",
     "applicationEmail": "contact@managinglife.com",
@@ -772,6 +878,7 @@
     "applicationDescription": "Manage My Pain helps people living with chronic pain track, analyze, and share their pain. Through its web-based portal, Manage My Pain allows clinics to remotely monitor progress in between visits, deploy clinically-validated questionnaires, and leverage advanced analytics to detect at-risk trajectories."
   },
   {
+    "id":"d769518b-818e-470e-8e4a-d95d65ddef37",
     "applicationName": "Regard",
     "company": "HealthTensor",
     "applicationEmail": "taylor@healthtensor.com",
@@ -779,6 +886,7 @@
     "applicationDescription": "In short, HealthTensor uses proprietary algorithms to automatically diagnose and document conditions on behalf of physicians. These auto-generated notes save providers time, reduce coding queries, minimize missed diagnoses, and improve finances."
   },
   {
+    "id":"888f0eae-d80b-4364-b904-c6a191608927",
     "applicationName": "InpharmD",
     "company": "InpharmD",
     "applicationEmail": "janhavi@inpharmd.com",
@@ -786,6 +894,7 @@
     "applicationDescription": "To provide information on InpharmD to see how it can best help health systems and HCPs."
   },
   {
+    "id":"aafc5510-cdc2-4757-a182-17f667aaae2c",
     "applicationName": "PEGASI MED",
     "company": "PEGASI INTERNATIONAL, INC.",
     "applicationEmail": "info@pegasi.io",
@@ -793,6 +902,7 @@
     "applicationDescription": "We created a 4-step method to structure, process, aggregate and analyze Oncology information. The first two steps we handle through PEGASI MED, our Oncology Information System (OIS). PEGASI MED offers tools to manage patients during the suspicion, diagnosis, treatment and follow-up stages. PEGASI MED is available online and offline, is responsive & multi-channel, and complies with international standards for interoperability and patient privacy protection.    In the third and fourth step, information entered in PEGASI MED is anonymized and transferred as aggregated information into our datalake, to create reports in 4 main opportunity areas: everyday clinical operations optimization, service provider and payer communication, research & development indicators, and real-time cancer registry."
   },
   {
+    "id":"ebe9e9d1-5c6a-40fe-9cc9-dd5318032c00",
     "applicationName": "Prodoc",
     "company": "Digilife",
     "applicationEmail": "adnan@digilifeinc.com",
@@ -800,6 +910,7 @@
     "applicationDescription": null
   },
   {
+    "id":"c544683f-6b8a-4894-8dc8-40b55dc086a9",
     "applicationName": "HeartFlow FFRCT Analysis",
     "company": "HeartFlow",
     "applicationEmail": "support@heartflow.com",
@@ -807,6 +918,7 @@
     "applicationDescription": null
   },
   {
+    "id":"4a9c038d-1987-4e41-9bdd-15f22051e758",
     "applicationName": "Owkin Connect",
     "company": "Owkin",
     "applicationEmail": "support@owkin.com",
@@ -814,6 +926,7 @@
     "applicationDescription": "Owkin has built a Federated Learning (FL) software, Owkin Connect, that powers collaborations between institutions in a privacy-preserving way, allowing data scientists to securely connect to decentralised, multi-party datasets and train AI models without pooling data. The software is deployed in medical centers, and used in multiple real world projects.  "
   },
   {
+    "id":"e01eb3bb-fdc8-4ac8-b10e-d90b98232961",
     "applicationName": "Jeremy Wilson",
     "company": "See-Mode Technologies",
     "applicationEmail": "jeremy@see-mode.com",
@@ -821,6 +934,7 @@
     "applicationDescription": " - To generate awareness of our product AVA.   - To generate interest from our target customers.  - To get new customers."
   },
   {
+    "id":"0c49f540-309b-4752-8b1c-7f8ddf786c45",
     "applicationName": "Vinehealth Cancer Companion",
     "company": "Vinehealth",
     "applicationEmail": "support@vinehealth.ai",
@@ -828,6 +942,7 @@
     "applicationDescription": "VCC provides personalized support to cancer patients throughout their disease journey. It includes symptom & QoL reporting, wearable & IoT device integration, appointment & medication reminders, an expert content library sourced from charitable partners, user friendly visualizations of patients' own data for self discovery purposes, and much more."
   },
   {
+    "id":"b9a0b1e5-9e93-483e-9123-9f15d0ef5862",
     "applicationName": "VinehealthPRO for Clinicians",
     "company": "Vinehealth",
     "applicationEmail": "support@vinehealth.ai",
@@ -835,6 +950,7 @@
     "applicationDescription": "VPRO provides oncology clinicians whose patients use Vinehealth Cancer Companion access to their patients' at-home self-assessment data (e.g., HrQoL, symptoms, TEAEs). In so doing, oncology clinicians are empowered to deliver more personalized care and treatment planning, both when patients return to clinic and even between clinic visits.    Note: patients must consent for their clinician to access their data and may rescind this access at any time."
   },
   {
+    "id":"1a81e498-cd7c-416e-87fd-1805e0c94ec1",
     "applicationName": "IDx-DR",
     "company": "Digital Diagnostics",
     "applicationEmail": "info@digitaldiagnostics.com",
@@ -853,6 +969,7 @@
     ]
   },
   {
+    "id":"e0bbbac2-9f32-46aa-a036-8b541e3bab9b",
     "applicationName": "A4i",
     "company": "MEMOTEXT",
     "applicationEmail": "memo@memotext.com",
@@ -860,6 +977,7 @@
     "applicationDescription": "A4i is a patent pending, validated, digital therapeutic with a regulatory pathway for severe mental illness (SMI). A4i's first indication is outcomes improvements and relapse-risk identification in schizophrenia/psychosis spectrum illnesses.  A joint venture between Canada's largest mental health teaching hospital and MEMOTEXT precision global digital therapeutics platform, A4i shows significant improvements in several outcome domains related to schizophrenia and psychoses recovery."
   },
   {
+    "id":"dfe22c53-9bc0-41f9-bfd2-4fc7511f870a",
     "applicationName": "Pantheon",
     "company": "Qritive",
     "applicationEmail": "kaveh@qritive.com",
@@ -867,6 +985,7 @@
     "applicationDescription": "Pantheon is a CE marked vendor-agnostic digital pathology platform that enables digitization of the entire pathology lab workflow and telepathology, supports rich report generation, and provides a platform for AI analysis of pathology whole-slide images.  CE-IVD marked digital pathology platform    Registered at HSA Singapore for clinical use    Supports all major whole-slide scanners    Enables telepathology and remote diagnosis    Routine lab workflow management"
   },
   {
+    "id":"21815d9f-1e9e-4522-8147-f71f6487b864",
     "applicationName": "Nimblr.ai x ADviCE Application ",
     "company": "Nimblr.ai",
     "applicationEmail": "amanda@nimblr.ai ",
@@ -874,6 +993,7 @@
     "applicationDescription": "To join the ADviCE network for exposure to the Health Systems that use it. We hope to gain both clients and partners should our application be accepted. "
   },
   {
+    "id":"4cd40f7a-baa4-4c3c-8f30-036d72c33016",
     "applicationName": "Robin Healthcare",
     "company": "Robin Healthcare",
     "applicationEmail": "Kathleen@Robinhealthcare.com",
@@ -881,6 +1001,7 @@
     "applicationDescription": "Robin is changing the administration of orthopedic healthcare enabling doctors to spend more time with patients and to more efficiently manage their practices. Robin's proprietary device, the Robin Assistant™, silently observes physician-patient visits while remote scribes - powered by AI trained by over one million patient visits - extract data, identify conditions, build and upload clinical notes with medical codes,  all directly to the EHR. Robin gives patients peace of mind; physicians freedom of focus; payors and practices measurably more accurate coding, and our health system, a new abundance of time to return to its focus on prevention, treatment, and well-being.  "
   },
   {
+    "id":"7163828a-4957-4989-b324-281ce3035c85",
     "applicationName": "Financial Explorer",
     "company": "CloudMedx Inc.",
     "applicationEmail": "sahar@cloudmedxhealth.com",
@@ -888,6 +1009,7 @@
     "applicationDescription": "Helps automate manual tasks to reduce burden on your staff for documentation and quality control  • Automated patient registry building that is required for quality reporting and compliance for COVID, Stroke, MSK, and other value-based care requirements (MIPS, MACRA, HEDIS, etc.)  • Automated risk adjustment reduces workload on staff"
   },
   {
+    "id":"77f524eb-f0f0-46f2-abfb-1acb54ed91b8",
     "applicationName": "CalmDoc",
     "company": "MEMOTEXT Corporation ",
     "applicationEmail": "memo@memotext.com ",
@@ -895,6 +1017,7 @@
     "applicationDescription": "CalmDoc is a text-based system to continuously follow physician and nurse stress levels in their native environment by sending one single-item stress question (SISQ) per week via text at random times (between 9a and 4p) and days (Mon-Fri). It has been shown that similar SISQ scores correlate with exhaustion, sense of control/reward, depression, and intention to leave.  Our simple assessments occur continuously and are coordinated throughout an institution providing numerous stress data points weekly."
   },
   {
+    "id":"cc0c115c-bb63-454c-936a-36eaf82b408d",
     "applicationName": "iCardio.ai Brain v1",
     "company": "iCardio.ai",
     "applicationEmail": "support@icardio.ai",
@@ -902,6 +1025,7 @@
     "applicationDescription": "Users can upload a structured or unstructured transthoracic echocardiogram and receive a preliminary echo report, highlighting areas of interest and concern within the study. The iCardio.ai Brian v1 is a triage and notification software that can be used to fast-track identification of unhealthy or abnormal finding within echocardiograms. The iCardio.ai Brain v1 software can be integrated directly through the iCardio.ai Interpretation Service API or be used independently."
   },
   {
+    "id":"9a6c273a-dffa-4415-83f2-561152e80d1a",
     "applicationName": "Canvas Dx",
     "company": "Cognoa, Inc.",
     "applicationEmail": "Connect@cognoa.com",
@@ -909,6 +1033,7 @@
     "applicationDescription": "Canvas Dx is the first and only FDA authorized tool that aids physicians in diagnosing Autism Spectrum Disorder (ASD) in children between the ages of 18 and 72 months.  Canvas Dx is available for prescription use only (Rx only)"
   },
   {
+    "id":"36156314-cea2-4102-a721-1ef70808dd8b",
     "applicationName": "Yair Saperstein",
     "company": "AvoMD",
     "applicationEmail": "info@avomd.io",
@@ -916,6 +1041,7 @@
     "applicationDescription": "No-code Clinical Decision Support builder and application with or without EHR-integration. It's like UpToDate in MDCalc format, with survey-monkey style editing. "
   },
   {
+    "id":"aed9d472-ce79-47a7-b86d-6ef662320af7",
     "applicationName": "NeuraMetrix TC (Typing Cadence)",
     "company": "NeuraMetrix, Inc.",
     "applicationEmail": "susan.digiaimo@neurametrix.com",
@@ -923,6 +1049,7 @@
     "applicationDescription": "NeuraMetrix TC (Typing Cadence) is a digital brain health biomarker platform measuring typing inconsistency. We monitor brain health without any tests or special equipment. Installed on a personal computer, it captures typing cadence in milliseconds, allowing the detection of subtle changes in cognitive and motor function and calculation of a digital biomarker."
   },
   {
+    "id":"4dbb5c14-2fee-4353-a2ce-433792244c46",
     "applicationName": "Playback Health Application",
     "company": "Playback Health",
     "applicationEmail": "matt@playbackhealth.com",
@@ -930,6 +1057,7 @@
     "applicationDescription": "Playback Health's secure platform is used by clinicians to communicate medical information to patients, their family members and their extended care teams. We bring in features like audio recording, video recording, and screen recording securely into healthcare."
   },
   {
+    "id":"459c7e8e-d837-4a3a-948a-aded1d32fd14",
     "applicationName": "Knowtex",
     "company": "Knowtex",
     "applicationEmail": "founders@knowtex.ai",
@@ -937,6 +1065,7 @@
     "applicationDescription": "Knowtex creates visit notes with billing codes from clinician-patient conversations. Our software captures natural conversation, identifies relevant medical information, and generates a pre-filled note with ICD-10 and CPT code suggestions for physician review."
   },
   {
+    "id":"0abe3759-a49d-44a5-8f4a-cbfb06e063e9",
     "applicationName": "Medplum",
     "company": "Medplum",
     "applicationEmail": "support@medplum.com",
@@ -944,6 +1073,7 @@
     "applicationDescription": "Medplum helps providers build webapps based on FHIR that are highly interoperable.  "
   },
   {
+    "id":"7d87731a-3142-428d-8dca-74e47d22ad7f",
     "applicationName": "MARA UCSF ADviCE Application",
     "company": "Milliman Inc. _ MARA",
     "applicationEmail": "MARASupport@Milliman.com",
@@ -951,6 +1081,7 @@
     "applicationDescription": null
   },
   {
+    "id":"4849244f-f825-4d8f-9066-3ae78c2d09f2",
     "applicationName": "LARA (Long-Term Care Advanced Risk Analytics)",
     "company": "Milliman",
     "applicationEmail": "LARA@milliman.com",
@@ -958,6 +1089,7 @@
     "applicationDescription": "Milliman LARA predictive modeling software estimates when individuals may face an acute long-term care need in the next 12 - 24 months."
   },
   {
+    "id":"1f23fc9c-75fe-4839-a060-8ae6b15f5199",
     "applicationName": "Neura Health",
     "company": "Neura Health",
     "applicationEmail": "support@neurahealth.co",
@@ -965,6 +1097,7 @@
     "applicationDescription": null
   },
   {
+    "id":"d2dca568-7569-421d-81bb-d7615b428af9",
     "applicationName": "Kodjin FHIR Server",
     "company": "Edenlab",
     "applicationEmail": "welcome@edenlab.io",
@@ -972,6 +1105,7 @@
     "applicationDescription": "The Kodjin FHIR server is low-code smart storage and a powerful tool for processing, validating, and storing all kinds of healthcare data, from appointments to diagnoses, accessible through an FHIR-compliant RESTful API"
   },
   {
+    "id":"7e04d124-83bf-4831-97d0-b80c3924a7f5",
     "applicationName": "Theator's Surgical Intelligence Platform",
     "company": "Theator Inc.",
     "applicationEmail": "natalie@theator.io",
@@ -979,6 +1113,7 @@
     "applicationDescription": "Theator's Surgical Intelligence Platform uses state-of-the-art technology and real-time AI to understand in an aggregated way, for the first time, why there is variability in patient outcomes after surgery. We want to reach more patients, surgeons, and healthcare systems to improve the quality of surgical care."
   },
   {
+    "id":"c16de854-89ee-463b-b6b6-e5aea9f61fc2",
     "applicationName": "AI powered ICD-10 Diagnosis Code Suggestion",
     "company": "Diagnoss",
     "applicationEmail": "abboud@diagnoss.com",
@@ -986,6 +1121,7 @@
     "applicationDescription": "The AI powered diagnosis code suggestion engine reads physicians' notes and produces ICD-10 codes in real time.     Anyone can try the demo, for free, without needing to register by visiting demo.diagnoss.com.    Developers can embed the engine into their tech stack with our API at api.diagnoss.com/docs/."
   },
   {
+    "id":"f234806e-bf6b-41b9-af97-2e4a31e344f3",
     "applicationName": "Medsys Health",
     "company": "Medsys Health",
     "applicationEmail": "michelle.stark@medsyshealth.com",
@@ -993,6 +1129,7 @@
     "applicationDescription": "1. Transforming Episodic reactive care to ongoing Proactive Delivery of Care  2. Reduction in Cost of Care  3. Increase in ROI: Providers in value-based contracts can receive contractual bonuses by pro-actively managing the health of their patients through remote monitoring."
   },
   {
+    "id":"9e264d94-411a-4254-9f08-ebf492606a24",
     "applicationName": "The Consumer Ultrasound",
     "company": "PONS",
     "applicationEmail": "ilker@ponstech.co",
@@ -1000,6 +1137,7 @@
     "applicationDescription": "Fifty years after its first introduction into the professional medical domain, ultrasound imaging is now ready to enter the consumer space   so that ultrasound can be used at home, in pharmacies, or by mobile Medicare teams. PONS`s AI-driven mobile ultrasound technology will allow patients, without any medical background, to perform the medical imaging necessary for monitoring their conditions. By segmenting and processing the tissue in the image obtained by the patient, the system can perform a risk assessment of the condition"
   },
   {
+    "id":"0616133d-c492-44c1-93a8-7fbd677475d0",
     "applicationName": "Enroute",
     "company": "Enroute Digital",
     "applicationEmail": "team@enroute.digital",
@@ -1007,6 +1145,7 @@
     "applicationDescription": "To improve patient transports and patient flows inside of the hospital"
   },
   {
+    "id":"a6323da4-eace-49c5-b0ce-dc2792375ea1",
     "applicationName": "S10.AI Robot Medical Scribe",
     "company": "S10.AI Inc",
     "applicationEmail": "support@s10.ai",
@@ -1014,6 +1153,7 @@
     "applicationDescription": "Making a physician's life easy by completely removing the EHR documentation burden and EHR navigation challenges, the physician is able to see more patients and spend quality time with the patients. "
   },
   {
+    "id":"0130e476-8a17-437c-9095-4ebd6cda0c34",
     "applicationName": "Safely You",
     "company": "Safely you",
     "applicationEmail": "support@safely-you.com",
@@ -1021,6 +1161,7 @@
     "applicationDescription": "SafelyYou real-time fall detection technology means knowing exactly what happened when a fall occurs, so care staff is empowered to make changes, preventing future falls. "
   },
   {
+    "id":"fe9defbe-c2ed-4e5d-bee3-995795afb6d4",
     "applicationName": "Frontive Health",
     "company": "Frontive",
     "applicationEmail": "support@frontive.com",
@@ -1028,6 +1169,7 @@
     "applicationDescription": "Frontive Health is an AI-enabled application that makes peri-operative adherence easier for patients and less costly for providers. Generic instructions are reorganized, simplified, and personalized to support more effective patient self service, helping providers reclaim valuable time and improve adherence."
   },
   {
+    "id":"1598c4a6-7ba5-4c33-93b1-fc787bae724e",
     "applicationName": "AristaMD Platform",
     "company": "AristaMD",
     "applicationEmail": "info@aristamd.com",
@@ -1035,6 +1177,7 @@
     "applicationDescription": "Our leading eConsult and referral management platform empowers organizations to conduct eConsults (also known as electronic physician-to-physician consultations), schedule peer-to-peer reviews for insurance authorization, and facilitate physician referral selection and routing. Electronic referral management and eConsults significantly improve the patient referral process and deliver greater access to timely, high-quality care."
   },
   {
+    "id":"92ab3aa5-4928-4024-bcb5-5c1b4f9b675d",
     "applicationName": "DICOM Annotation tool",
     "company": "Encord",
     "applicationEmail": "jan@encord.com",
@@ -1042,6 +1185,7 @@
     "applicationDescription": "The first purpose-built DICOM annotation tool for Healthcare AI. It has been developed in close collaboration with clinicians and healthcare data science experts to deliver maximal functionality and an unparalleled user experience. "
   },
   {
+    "id":"75f17cfc-02a9-41b1-90b2-d7ab122d6533",
     "applicationName": "RevKeep Enterprise",
     "company": "RevKeep",
     "applicationEmail": "kevin.lasser@revkeepsoftware.com",
@@ -1049,6 +1193,7 @@
     "applicationDescription": "We defend against post-payment (i.e. RAC) audits and pre-denials in the ED due to medical necessity."
   },
   {
+    "id":"6f134f3b-6694-49ae-9852-29c22ed4e93b",
     "applicationName": "Supplemental Benefits",
     "company": "Soda Health",
     "applicationEmail": "contactus@sodahealth.com",
@@ -1056,6 +1201,7 @@
     "applicationDescription": "Soda Health is using technology to transform social care. Creating health equity begins with addressing social determinants of health. We do this through sustained engagement, presenting the consumer with relevant, timely and personalized benefits. "
   },
   {
+    "id":"17d7f6b7-7a9d-4d3d-8521-ba786da9b811",
     "applicationName": "SweetSpot",
     "company": "Aegis Digital Health",
     "applicationEmail": "svonrump@aegisdigitalhealth.com",
@@ -1072,6 +1218,7 @@
     ]
   },
   {
+    "id":"986cc337-8c4e-4821-b091-32613464840d",
     "applicationName": "Benchmark PM",
     "company": "Benchmark Systems",
     "applicationEmail": "customersupport@benchmarksystems.com",
@@ -1079,6 +1226,7 @@
     "applicationDescription": "Benchmark PM is a platform that allows medical practices to keep track of data more simply and accurately. It's a software system designed to fit exactly within an individual medical practice's daily processes and streamline workflows as needed."
   },
   {
+    "id":"4ec80cfe-8d35-4575-b4a8-710cb5187d39",
     "applicationName": "HART CVE®",
     "company": "Prevencio, Inc.",
     "applicationEmail": " @prevenciomed.com",
@@ -1086,6 +1234,7 @@
     "applicationDescription": "To provide awareness and education to HART CVE®.   HART CVE® is the only prognostic blood test for 1-year risk of heart attack (MI), stroke or cardiac death (MACE or major adverse cardiovascular events). HART CVE® assesses four cardiac specific blood proteins in a machine learning (AI) algorithm to calculate a patient- specific risk score."
   },
   {
+    "id":"25d57efc-5c2d-472f-8f3a-8595ea2f94b2",
     "applicationName": "Odeza Patient Engagement Platform",
     "company": "Odeza",
     "applicationEmail": "support@odeza.com",
@@ -1093,6 +1242,7 @@
     "applicationDescription": "Odeza facilitates a uniquely integrated approach by bringing together the key elements of convenience and coordination frequently missing from traditional provider-patient communications. Using AI-enabled communication technology, the Odeza platform helps providers reach the modern healthcare consumer with intelligent, real-time two-way texting, interactive voice response (IVR) calls, email, live chat and web-based chatbots. The platform requires no app download or portal login by patients and enables more than 20 use cases, including scheduling confirmations and appointment reminders, appointment waitlist and backfill, order and referral management, patient balance reminders and payments, and ratings/reviews and service recovery. From patient acquisition to payment to retention, Odeza's solutions help healthcare providers increase patient volumes while improving patient engagement and loyalty."
   },
   {
+    "id":"aacb6b99-3478-4058-8ba4-8626a0e667c8",
     "applicationName": "Denials Prioritization & Management",
     "company": "Sift Healthcare",
     "applicationEmail": "bethany.grabher@sifthealthcare.com",
@@ -1100,6 +1250,7 @@
     "applicationDescription": "Sift's denials scoring and prioritization equip healthcare providers with an ROI-based approach for prioritizing payer follow-up. Sift's AI delivers detailed denials follow-up recommendations directly into providers' existing workflow tools. Sift identifies which claim denials are preventable and which are \"high value\" denials and suggests how staff should prioritize them. Sift even recommends which denials-related work should be automated and which should be outsourced so that provider teams can focus on more crucial tasks. "
   },
   {
+    "id":"78e3c3e8-8aa4-4f74-9e0d-83280f555d4d",
     "applicationName": "Orderly Provider Directory ",
     "company": "Orderly Health",
     "applicationEmail": "sales@orderlyhealth.com",
@@ -1107,6 +1258,7 @@
     "applicationDescription": "The Orderly Provider Directory is a transparent and comprehensive directory for any organization that needs a source of truth for provider data. Orderly Health sources data through public, partnership, and proprietary data sources. We then run the data through our data science process which combines manual attestation and machine learning algorithms to eliminate errors and validate our data, where it is then made readily accessible to our customers using a suite of APIs."
   },
   {
+    "id":"eea766f4-ebd9-4672-84b8-e7a2b1971123",
     "applicationName": "Roster Automation Suite",
     "company": "Orderly Health",
     "applicationEmail": "sales@orderlyhealth.com",
@@ -1114,6 +1266,7 @@
     "applicationDescription": "Physician roster updates today are a manual and error-prone process to ingest, update, and translate. Orderly has created an automated software translation framework that simplifies hours or days into minutes.    Orderly allows payers and providers to consolidate a variety of roster formats into a desired format, removing countless hours of manual effort and the potential for errors and reducing any friction between parties.   "
   },
   {
+    "id":"00d3cb26-27b6-413e-adc5-296e30d1af2f",
     "applicationName": "Jiva.ai No-Code AI Platform",
     "company": "Jiva.ai",
     "applicationEmail": "support@jiva.ai",
@@ -1121,6 +1274,7 @@
     "applicationDescription": "Jiva is an \"AI as a service\" on a mission to make AI more accessible for everyone, saving organizations as much as 80% on time and costs with their AI initiatives. That means putting the details of data science and AI engineering behind the scenes so that both technical and non-technical users alike can use our platform to create AI solutions to any level of complexity - all without writing any code. Jiva's no-code AI platform helps companies accelerate their AI journey by allowing them to rapidly prototype AI solutions without having to spend $100k+ in extensive AI/ML & data science resources ."
   },
   {
+    "id":"9a2b7b0e-5b64-4919-826d-38bd90d911c3",
     "applicationName": "Regulora",
     "company": "metaMe Health",
     "applicationEmail": "help@regulora.com",
@@ -1128,6 +1282,7 @@
     "applicationDescription": "Regulora® is a prescription-only digital therapeutic device intended to provide behavioral therapy through gut-directed hypnotherapy for adults 22 years of age and older who have been diagnosed with Irritable Bowel Syndrome (IBS).  Regulora is indicated as a 3-month treatment for patients with abdominal pain due to IBS and is intended to be used together with other IBS treatments."
   },
   {
+    "id":"8d3446df-fc97-4169-9854-40862fd10648",
     "applicationName": "Ayble Health: Gastroenterology App",
     "company": "Ayble Health",
     "applicationEmail": "support@ayblehealth.com",
@@ -1135,6 +1290,7 @@
     "applicationDescription": "Ayble Health's patented personalized nutrition program guides GI patients to identify and eliminate unique trigger foods and create a 100% custom diet for long-term symptom management. We also empower patient to change how they purchase and cook their meals: users filter 100k+ grocery items and 900k+ recipes based on our diet recommendations, purchase in-app or scan barcodes in stores. Throughout their journey, users have on-demand access to a licensed dietitian / health coach. Our proprietary data is the largest GI database in the world and powers our personalization technology. We are accredited by the American Nutrition Association."
   },
   {
+    "id":"0672b6ed-3552-4727-8c48-439b8d348345",
     "applicationName": "CareAlign",
     "company": "CareAlign",
     "applicationEmail": "James@CareAlign.ai",
@@ -1142,6 +1298,7 @@
     "applicationDescription": "CareAlign is a project and task management platform which enables all types of care providers to coordinate together in one comprehnsive platform. CareAlign replaces and/or minimizes the need to text, email, use paper and white boards."
   },
   {
+    "id":"16b1c6e1-0b2c-470d-879c-27c69313e0ea",
     "applicationName": "Pred Care Management Platform",
     "company": "Pred Healthcare Solutions",
     "applicationEmail": "info@pred.health",
@@ -1149,6 +1306,7 @@
     "applicationDescription": "Pred is a unified cloud based platform that enables integrated care management through clinical data integration and a specialized service model.     Pred is on a mission to achieve this vision by unifying all stakeholders across the health ecosystem with a primary focus on interoperability, data consolidation and analytics.    We provide smart solutions to Hospitals, Diagnostic centers and Doctors along with the ability to securely plug into the larger eco-system reducing cost, time and carbon footprint for all interactions and transactions among key stakeholders of the healthcare eco-system."
   },
   {
+    "id":"94fb13ce-79de-4bb6-8d47-7d0755f2783a",
     "applicationName": "GO Connect",
     "company": "GenomOncology",
     "applicationEmail": "info@genomoncology.com",
@@ -1156,6 +1314,7 @@
     "applicationDescription": "GO Connect is a molecular enablement platform that allows clinicians to import large sets of data including NGS data for comprehensive genomic analysis, and export data into many different flexible formats including HL7 2.5 compatible messages for EHR integration. GO Connect uses our API capabilities to help you convert and clean information."
   },
   {
+    "id":"0a356364-d47f-4fcf-993a-ef38c3d0a137",
     "applicationName": "igniteIQ",
     "company": "GenomOncology",
     "applicationEmail": "info@genomoncology.com",
@@ -1163,6 +1322,7 @@
     "applicationDescription": "igniteIQ is a software platform that simplifies the extraction of clinically-relevant information from PDF documents and images to access discrete data for registries, analytics, and research. With igniteIQ, users are able to automatically extract text from unstructured and semi-structured clinically-relevant documents. Once extracted, the data is reviewed and curated by experienced genomic experts, improving quality control and reducing manual errors. "
   },
   {
+    "id":"4c92ba38-630b-4b6d-bc59-bd09ff005c0a",
     "applicationName": "Precision Oncology API Suite",
     "company": "GenomOncology",
     "applicationEmail": "info@genomoncology.com",
@@ -1170,6 +1330,7 @@
     "applicationDescription": "This solution enables clinicians, researchers, and collaborative teams to extend the knowledge of our Precision Oncology Platform by easily integrating directly with their own in-house systems and existing workflows, increasing the overall speed of the implementation timeline."
   },
   {
+    "id":"7ead139d-b2ac-4b6a-a158-08389207dbd7",
     "applicationName": "Precision Decision",
     "company": "GenomOncology",
     "applicationEmail": "info@genomoncology.com",
@@ -1177,6 +1338,7 @@
     "applicationDescription": "Precision Decision is a flexible software solution that streamlines the matching of patients to relevant, open clinical trials and therapies, both at your institution and globally, in order to improve overall patient care. The combination of automation and quality assurance results in an aggregation of available variant, disease, and patient data that empowers the accurate matching of patients to clinical trials and therapies."
   },
   {
+    "id":"7d5da820-bcc5-40e0-aba7-4c62761fd731",
     "applicationName": "Pathology Workbench",
     "company": "GenomOncology",
     "applicationEmail": "info@genomoncology.com",
@@ -1184,6 +1346,7 @@
     "applicationDescription": "The GO Pathology Workbench is an end-to-end solution that integrates directly with lab sequencers, annotates detected variants, brings back potential clinical trials and therapies, and produces a comprehensive summary report. We help pathology labs validate their new assays, and scale their test volume through easy variant analysis and comprehensive support for large panels, such as TSO 500."
   },
   {
+    "id":"eb9eb08c-5e4f-4d92-8128-a12c24ae4dae",
     "applicationName": "Molecular Tumor Board",
     "company": "GenomOncology",
     "applicationEmail": "info@genomoncology.com",
@@ -1191,6 +1354,7 @@
     "applicationDescription": "The GO Molecular Tumor Board is a software solution that is designed to automate your Tumor Board processes. By combining our proprietary knowledgebase with your internal patient data, the GO Molecular Tumor Board matches patients to specific treatment recommendations based on their molecular and clinical history."
   },
   {
+    "id":"e5f222f3-27b0-4527-93e6-88365b0f70f6",
     "applicationName": "GenomAnalytics",
     "company": "GenomOncology",
     "applicationEmail": "info@genomoncology.com",
