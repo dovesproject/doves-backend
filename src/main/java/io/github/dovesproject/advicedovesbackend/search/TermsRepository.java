@@ -13,9 +13,6 @@ import java.util.List;
  */
 public interface TermsRepository extends ElasticsearchRepository<TermDocument, String>, CrudRepository<TermDocument, String> {
 
-//    @Query("category: ?1 AND (label:\"?0\" OR synonyms:\"?0\")")
-    List<TermDocument> findByLabelOrSynonymsAndCategory(String label, String synonyms, TermCategory termCategory);
-
     @Query("""
             {
                 "bool" : {
