@@ -8,6 +8,6 @@ import java.util.List;
  * 2023-03-07
  */
 public record SearchResult(SearchSpecification searchSpecification,
-                           List<DigitalHealthAppDocument> matches) {
+                           List<DigitalHealthAppResolvedDocument> matches) {
 
 }

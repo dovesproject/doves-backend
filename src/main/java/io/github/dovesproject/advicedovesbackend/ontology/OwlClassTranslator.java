@@ -27,29 +27,33 @@ public class OwlClassTranslator {
     }
 
     public Term toTerm(OWLClass cls) {
+        return toTerm(cls.getIRI());
+    }
+
+    public Term toTerm(IRI iri) {
         var ontology = loader.getOntology();
-        var annotationAssertions = ontology.getAnnotationAssertionAxioms(cls.getIRI());
+        var annotationAssertions = ontology.getAnnotationAssertionAxioms(iri);
         var label = getStringValues(annotationAssertions, ax -> ax.getProperty().isLabel())
                 .findFirst()
                 .orElse("").trim();
-        var synonyms = getStringValues(ontology.getAnnotationAssertionAxioms(cls.getIRI()),
+        var synonyms = getStringValues(ontology.getAnnotationAssertionAxioms(iri),
                                        ax -> ax.getProperty().getIRI().equals(SKOSVocabulary.ALTLABEL.getIRI()))
                 .toList();
         if(synonyms.isEmpty()) {
-            synonyms = getStringValues(ontology.getAnnotationAssertionAxioms(cls.getIRI()),
+            synonyms = getStringValues(ontology.getAnnotationAssertionAxioms(iri),
                                        ax -> ax.getProperty().getIRI().equals(IRI.create("http://www.geneontology.org/formats/oboInOwl#hasExactSynonym")))
                     .toList();
         }
 
-        var definition = getStringValues(ontology.getAnnotationAssertionAxioms(cls.getIRI()),
+        var definition = getStringValues(ontology.getAnnotationAssertionAxioms(iri),
                                          ax -> ax.getProperty().getIRI().equals(SKOSVocabulary.DEFINITION.getIRI()))
                 .findFirst().orElse("");
         if(definition.isEmpty()) {
-            definition = getStringValues(ontology.getAnnotationAssertionAxioms(cls.getIRI()),
+            definition = getStringValues(ontology.getAnnotationAssertionAxioms(iri),
                                          ax -> ax.getProperty().getIRI().equals(Obo2OWLConstants.Obo2OWLVocabulary.IRI_IAO_0000115.getIRI()))
                     .findFirst().orElse("");
         }
-        return new Term(label, synonyms, definition, new Iri(cls.getIRI().toString()));
+        return new Term(label, synonyms, definition, new Iri(iri.toString()));
     }
 
     private Stream<String> getStringValues(Set<OWLAnnotationAssertionAxiom> annotationAssertions,
