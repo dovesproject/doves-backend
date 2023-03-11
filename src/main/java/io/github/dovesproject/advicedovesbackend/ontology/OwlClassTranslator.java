@@ -57,9 +57,8 @@ public class OwlClassTranslator {
         return annotationAssertions.stream()
                                    .filter(filter)
                                    .map(OWLAnnotationAssertionAxiom::getValue)
-                                   .map(OWLAnnotationValue::asLiteral)
-                                   .filter(Optional::isPresent)
-                                   .map(Optional::get)
+                .filter(val -> val instanceof OWLLiteral)
+                                   .map(val -> (OWLLiteral) val)
                                    .map(OWLLiteral::getLiteral);
     }
 }

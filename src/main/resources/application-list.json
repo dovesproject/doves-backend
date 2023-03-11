@@ -1,5 +1,46 @@
 [
   {
+    "id" : "aeea37be-9b43-48c8-a0d8-4bd49ddcee8d",
+    "applicationName" : "mySugr",
+    "company" : "mySugr",
+    "url" : "https://www.mysugr.com",
+    "applicationDescription" : "mySugr is made by people with diabetes, for people with diabetes. When it comes to taming the diabetes monster, we want to be your partners in crime! The mySugr app stores all your important diabetes data from connected devices, integrations, and manual entries, in one convenient place. The mySugr app will be right by your side throughout your diabetes journey, helping you stay motivated, confident, and ready to tame the monster!",
+    "conditions" : [
+      "http://purl.obolibrary.org/obo/MONDO_0005015"
+    ],
+    "outcomes" : [
+      "http://purl.org/doves/158f4ae0_7b5e_497b_b880_76df4cdd5fc2"
+    ],
+    "users" : [
+      "https://purl.org/doves/b129abd1-3d08-42e9-b1b3-7ed9f235fe93"
+    ],
+    "technicalFeatures" : [
+      "https://purl.org/doves/c155802e-cb31-4f1d-89e9-4f161441f74c"
+    ]
+  },
+  {
+    "id" : "1ad0c72c-de49-48ed-be90-f87aaaf5a921",
+    "applicationName" : "Health 2 Sync",
+    "company" : "Health2Sync",
+    "url" : "https://www.health2sync.com/patients",
+    "applicationDescription" : "Health2Sync makes it easy to input data such as blood glucose, blood pressure, weight, CGM, and daily activities to monitor your trends and stay updated with your health condition. Health2Sync's charts and tables allow you to understand your glucose patterns easily.\nYou can also turn your data into reports and share them with your doctors directly to accelerate communication. Health2Sync App provides you feedback and tips according to the information you uploaded. You can also connect with your family, friends, and care providers to let them keep an eye on your health.",
+    "conditions" : [
+      "http://purl.obolibrary.org/obo/MONDO_0005015"
+    ],
+    "outcomes" : [
+      "http://purl.org/doves/158f4ae0_7b5e_497b_b880_76df4cdd5fc2",
+      "https://purl.org/doves/77117758-cad7-4295-83e8-ce5df05237e2",
+      "http://purl.org/doves/doves-ontology#Health_Literacy_Outcome",
+      "http://purl.org/doves/23303eb4_0fb1_4163_a8a8_b1f7c69ece81"
+    ],
+    "users" : [
+      "https://purl.org/doves/b129abd1-3d08-42e9-b1b3-7ed9f235fe93"
+    ],
+    "technicalFeatures" : [
+      "https://purl.org/doves/c155802e-cb31-4f1d-89e9-4f161441f74c"
+    ]
+  },
+  {
     "id":"da3c51c8-b7ea-459b-999c-9a6232ea50c7",
     "applicationName": "DMEhub",
     "company": "DMEhub",
@@ -101,7 +142,17 @@
     "company": "PrecisePK (Healthware Inc.)",
     "applicationEmail": "information@precisepk.com",
     "url": "www.precisepk.com",
-    "applicationDescription": "PrecisePK is a Therapeutic Drug Monitoring (TDM) Precision Dosing software platform that bridges clinically validated research, machine learning, and Bayesian analytics for clinicians and researchers globally. PrecisePK allows clinicians to easily plan precise, individualized treatments for drugs with narrow therapeutic windows and reduced adverse events.  After inputting  patients' specific conditions, physical characteristics, lab results, and dosage history, PrecisePK will compute recommendations, predictive models, and graphical visualizations depending on the patient's current and potential serum blood levels. "
+    "applicationDescription": "PrecisePK is a Therapeutic Drug Monitoring (TDM) Precision Dosing software platform that bridges clinically validated research, machine learning, and Bayesian analytics for clinicians and researchers globally. PrecisePK allows clinicians to easily plan precise, individualized treatments for drugs with narrow therapeutic windows and reduced adverse events.  After inputting  patients' specific conditions, physical characteristics, lab results, and dosage history, PrecisePK will compute recommendations, predictive models, and graphical visualizations depending on the patient's current and potential serum blood levels. ",
+    "technology" : [
+      "https://purl.org/doves/3002baf7-d232-4c53-8fd6-42475c802599"
+    ],
+    "outcomes" : [
+      "https://purl.org/doves/0997c29d-ec17-40f9-8056-80c70b5953f7"
+    ],
+    "users" : [
+      "https://purl.org/doves/37a002b3-8eec-4341-b3d0-6ccb97d8e42d",
+      "https://purl.org/doves/657b9d62-19a9-4e32-a7d3-677a72ee4a6e"
+    ]
   },
   {
     "id":"7585864a-88ff-4446-a234-a5feae300d9b",
@@ -448,7 +499,10 @@
     "company": "xCures",
     "applicationEmail": "kwong@xcures.com",
     "url": null,
-    "applicationDescription": "Uses Artificial Intelligence to gather and structure cancer patients' medical records to create a summary of their cancer history and a personalized Options Report to patients and their providers, where PhD Scientists use A.I. to sift through the vast amount of evidence in their options library. The evidence for different treatment options is assembled in a report that includes all the latest clinical research and learnings from other cancer patients on the platform. "
+    "applicationDescription": "Uses Artificial Intelligence to gather and structure cancer patients' medical records to create a summary of their cancer history and a personalized Options Report to patients and their providers, where PhD Scientists use A.I. to sift through the vast amount of evidence in their options library. The evidence for different treatment options is assembled in a report that includes all the latest clinical research and learnings from other cancer patients on the platform.",
+    "technology" : [
+      "https://purl.org/doves/028c0b85-9a85-4962-97c3-4a6af994781c"
+    ]
   },
   {
     "id":"e446a3e4-2d81-424e-9c72-836ddb92e2e0",
@@ -520,7 +574,10 @@
     "company": "Pieces, Inc. ",
     "applicationEmail": "businessdevelopment@piecestech.com",
     "url": null,
-    "applicationDescription": "Pieces Predict uses artificial intelligence to predict outcomes so health care providers can intervene early and efficiently"
+    "applicationDescription": "Pieces Predict uses artificial intelligence to predict outcomes so health care providers can intervene early and efficiently",
+    "technology" : [
+      "https://purl.org/doves/028c0b85-9a85-4962-97c3-4a6af994781c"
+    ]
   },
   {
     "id":"92858587-9322-4ecd-b7d7-74fa3abb2d4f",
@@ -528,7 +585,13 @@
     "company": "SensorRx Inc. ",
     "applicationEmail": "migrnx@sensorrx.io",
     "url": null,
-    "applicationDescription": "Migraine patients use the digital diary to better manage documenting their episodes, so their physician can optimize their medical regimen. A new module allows users to use the collected data for individualized migraine predictions. The predictions have been clinically test, and have been extremely accurate, >70% in the HFEM and Chronic populations. The clinic can bill for the doc reviewing the records with new CMS codes."
+    "applicationDescription": "Migraine patients use the digital diary to better manage documenting their episodes, so their physician can optimize their medical regimen. A new module allows users to use the collected data for individualized migraine predictions. The predictions have been clinically test, and have been extremely accurate, >70% in the HFEM and Chronic populations. The clinic can bill for the doc reviewing the records with new CMS codes.",
+    "conditions" : [
+      "http://purl.obolibrary.org/obo/MONDO_0005277"
+    ],
+    "outcomes" : [
+      "https://purl.org/doves/0997c29d-ec17-40f9-8056-80c70b5953f7"
+    ]
   },
   {
     "id":"d3e13978-a13d-4098-af34-74866d1bc6f7",
@@ -707,7 +770,10 @@
     "company": "Owkin",
     "applicationEmail": "mathieu.galtier@owkin.com",
     "url": "https://owkin.com/connect",
-    "applicationDescription": "Owkin Connect is our proprietary federated learning (FL) software that powers collaborations between hospitals, research centers, technology partners and biopharma companies in a privacy-preserved way. Our distributed architecture and federated learning capabilities allow data scientists to securely connect to decentralized, multi-party datasets and train AI models without having to pool data. Owkin Connect is based on Substra, an open-source software framework developed by us for orchestrating distributed machine learning tasks in a secure way. Substra is based on the distributed ledger technology Hyperledger Fabric. This forms the heart of Owkin's fully transparent and non-forgeable traceability platform.    "
+    "applicationDescription": "Owkin Connect is our proprietary federated learning (FL) software that powers collaborations between hospitals, research centers, technology partners and biopharma companies in a privacy-preserved way. Our distributed architecture and federated learning capabilities allow data scientists to securely connect to decentralized, multi-party datasets and train AI models without having to pool data. Owkin Connect is based on Substra, an open-source software framework developed by us for orchestrating distributed machine learning tasks in a secure way. Substra is based on the distributed ledger technology Hyperledger Fabric. This forms the heart of Owkin's fully transparent and non-forgeable traceability platform.",
+    "technology" : [
+      "https://purl.org/doves/3002baf7-d232-4c53-8fd6-42475c802599"
+    ]
   },
   {
     "id":"66684617-ef49-4447-bf54-61c3be8860cf",
@@ -962,10 +1028,10 @@
     ],
     "outcomes" : [
       "https://purl.org/doves/76e45aca-9c3c-456a-a781-ecce14d24187",
-      "diagnosis rate"
+      "https://purl.org/doves/8f5cfb55-bba6-475f-a508-30424e7532bc"
     ],
     "technology" : [
-
+      "https://purl.org/doves/028c0b85-9a85-4962-97c3-4a6af994781c"
     ]
   },
   {
@@ -1208,7 +1274,7 @@
     "url": "sweetspot.health",
     "applicationDescription": "SweetSpot is a software and clinical support tool that supports providers in remote monitoring of CGMs and insulin delivery devices for their diabetes patients. It automates data retrieval, triage and presentation for all US device manufacturers, and provides clinical support for data review and patient communication where required. SweetSpot also captures billable events, assigns them to appropriate CPT codes, and presents claims-ready reports to the provider.",
     "conditions" : [
-      ""
+      "http://purl.obolibrary.org/obo/MONDO_0005015"
     ],
     "outcomes" : [
       "http://purl.org/doves/158f4ae0_7b5e_497b_b880_76df4cdd5fc2"
@@ -1231,7 +1297,10 @@
     "company": "Prevencio, Inc.",
     "applicationEmail": " @prevenciomed.com",
     "url": "www.prevenciomed.com",
-    "applicationDescription": "To provide awareness and education to HART CVE®.   HART CVE® is the only prognostic blood test for 1-year risk of heart attack (MI), stroke or cardiac death (MACE or major adverse cardiovascular events). HART CVE® assesses four cardiac specific blood proteins in a machine learning (AI) algorithm to calculate a patient- specific risk score."
+    "applicationDescription": "To provide awareness and education to HART CVE®.   HART CVE® is the only prognostic blood test for 1-year risk of heart attack (MI), stroke or cardiac death (MACE or major adverse cardiovascular events). HART CVE® assesses four cardiac specific blood proteins in a machine learning (AI) algorithm to calculate a patient- specific risk score.",
+    "technology" : [
+      "https://purl.org/doves/3002baf7-d232-4c53-8fd6-42475c802599"
+    ]
   },
   {
     "id":"25d57efc-5c2d-472f-8f3a-8595ea2f94b2",
@@ -1255,7 +1324,10 @@
     "company": "Orderly Health",
     "applicationEmail": "sales@orderlyhealth.com",
     "url": "https://orderlyhealth.com/orderly-provider-directory/",
-    "applicationDescription": "The Orderly Provider Directory is a transparent and comprehensive directory for any organization that needs a source of truth for provider data. Orderly Health sources data through public, partnership, and proprietary data sources. We then run the data through our data science process which combines manual attestation and machine learning algorithms to eliminate errors and validate our data, where it is then made readily accessible to our customers using a suite of APIs."
+    "applicationDescription": "The Orderly Provider Directory is a transparent and comprehensive directory for any organization that needs a source of truth for provider data. Orderly Health sources data through public, partnership, and proprietary data sources. We then run the data through our data science process which combines manual attestation and machine learning algorithms to eliminate errors and validate our data, where it is then made readily accessible to our customers using a suite of APIs.",
+    "technology" : [
+      "https://purl.org/doves/3002baf7-d232-4c53-8fd6-42475c802599"
+    ]
   },
   {
     "id":"eea766f4-ebd9-4672-84b8-e7a2b1971123",

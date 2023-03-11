@@ -33,18 +33,7 @@ public class DigitalHealthAppsLoader {
 
     public List<DigitalHealthAppDocument> loadApps() throws IOException {
         var is = DigitalHealthAppsLoader.class.getResourceAsStream("/application-list.json");
-        var apps = objectMapper.readValue(is, new TypeReference<List<DigitalHealthAppDocument>>() {
-        });
-        apps.stream()
-            .filter(app -> !app.conditions().isEmpty())
-            .forEach(app -> {
-                System.out.println(app);
-                app.conditions()
-                        .stream().map(i -> dataFactory.getOWLClass(IRI.create(i.lexicalValue())))
-                        .map(cls -> translator.toTerm(cls))
-                        .forEach(t -> System.out.println("    " + t));
-            });
-        return apps;
+        return objectMapper.readValue(is, new TypeReference<>() {});
 
     }
 }

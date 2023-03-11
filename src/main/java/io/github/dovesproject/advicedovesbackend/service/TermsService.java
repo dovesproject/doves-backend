@@ -31,7 +31,6 @@ public class TermsService {
         return termsRepository.findByCustomQuery(query, category)
                               .stream()
                               .limit(10)
-                .peek(d -> System.out.println(d))
                               .map(d -> new Term(d.getLabel(), d.getSynonyms(), "", new Iri(d.getId())))
                               .toList();
     }
