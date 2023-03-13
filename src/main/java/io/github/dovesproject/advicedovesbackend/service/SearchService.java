@@ -53,6 +53,7 @@ public class SearchService {
                       .map(IRI::toString)
                       .map(s -> s.substring(s.lastIndexOf("/") + 1))
                       .flatMap(this::joinWithApps)
+                .sorted(Comparator.comparing(app -> app.applicationName() == null ? "" : app.applicationName()))
                       .toList();
     }
 

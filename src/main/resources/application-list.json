@@ -147,7 +147,8 @@
       "https://purl.org/doves/3002baf7-d232-4c53-8fd6-42475c802599"
     ],
     "outcomes" : [
-      "https://purl.org/doves/0997c29d-ec17-40f9-8056-80c70b5953f7"
+      "https://purl.org/doves/0997c29d-ec17-40f9-8056-80c70b5953f7",
+      "https://purl.org/doves/e677ffb2-3a5a-4e16-a017-a7268e348735"
     ],
     "users" : [
       "https://purl.org/doves/37a002b3-8eec-4341-b3d0-6ccb97d8e42d",
@@ -390,8 +391,8 @@
       "http://purl.obolibrary.org/obo/MONDO_0005266"
     ],
     "outcomes" : [
-      "Increased diagnosis rate",
-      "Reduce unnecessary appointments"
+      "https://purl.org/doves/8f5cfb55-bba6-475f-a508-30424e7532bc",
+      "https://purl.org/doves/c8696978-6ad4-40a4-8569-2a5286f518b1"
     ],
     "technology" : [
       "https://purl.org/doves/028c0b85-9a85-4962-97c3-4a6af994781c"
@@ -702,7 +703,7 @@
   },
   {
     "id":"2760d742-1fb3-44f5-95df-44e97f04a912",
-    "applicationName": null,
+    "applicationName": "ViTel",
     "company": "ViTel Health, Inc. ",
     "applicationEmail": "support@vitelhealth.com",
     "url": "https://www.vitelhealth.com/",
